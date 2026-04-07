@@ -92,6 +92,7 @@ tier: gold | silver | standard
   - Từ referral của Jon
   - Từ LinkedIn outreach
   - Từ cộng đồng Web3 meetup/event
+  - **Từ chuỗi sự kiện nội bộ định kỳ (Webinar/Talk trực tiếp tại trụ sở khách hàng về AI & Web3) với quy trình phân phối: Talk → Blog → Social.**
 - Tạo profile cho mỗi broker tiềm năng (status: `prospecting`).
 - Ghi chiến lược tiếp cận cho từng người.
 

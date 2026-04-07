@@ -8,6 +8,7 @@ tags: [broker, cyberk-way]
 * **Tầm nhìn (Vision):** Xây dựng Cyberk thành một nền tảng sản xuất (Production Hub) được nuôi dưỡng bởi một mạng lưới bán hàng phi tập trung toàn cầu.
 * **Mục tiêu Chiến lược (Strategic Objective):** Chuyển dịch mô hình kinh doanh từ "Sales-led" (tự nuôi đội sales) sang "Partner-led" (dựa vào mạng lưới môi giới), đạt 10 Active Brokers chất lượng cao vào cuối năm 2026.
 * **Lý do (Why):** Việc duy trì đội sales nội bộ tốn kém và khó mở rộng (scale). Mô hình Broker tận dụng được các mối quan hệ có sẵn của đối tác, biến chi phí cố định thành chi phí biến đổi (chỉ trả tiền khi có doanh thu).
+* **Chiến lược Thu hút (Acquisition Strategy):** Tổ chức lặp lại hàng tuần các buổi Webinar hoặc Offline Talk trực tiếp tại trụ sở khách hàng để trình bày về các cập nhật mới nhất của AI và Web3. Ứng dụng phễu chuyển đổi nội dung: **Talk → Blog → Social**.
 * **Key Results (Kết quả then chốt - Năm 2026):**
   * **KR1:** Tuyển dụng và kích hoạt thành công 10 Brokers đem lại doanh thu thực tế.
   * **KR2:** 50% tổng doanh thu năm 2026 đến từ kênh Broker Network.

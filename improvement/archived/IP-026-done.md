@@ -1,7 +1,7 @@
 ---
 type: improvement-plan
 tags: [cyberk-way, website, marketing, capabilities, seo, agentic, about-us]
-status: doing
+status: done
 priority: high
 created: 2026-03-17
 ---
@@ -50,13 +50,13 @@ Mỗi file có ghi chú nội bộ cuối trang: visual assets cần thiết, cr
 
 | Bộ phận | Task ID | Mô tả | Deadline | Status |
 |---------|---------|-------|----------|--------|
-| **CEO** | IP-026-CEO | Review content + viết How We Build + code 5 trang + cross-linking + sitemap. | 28/03 | ⬜ |
-| **DES** | IP-026-DES | Visual assets cho 5 trang. Xem ghi chú cuối mỗi content file. | 25/03 | ⬜ |
-| **MKT** | IP-026-MKT | Review website sau khi deploy. Kiểm tra nội dung, links, SEO. | 31/03 | ⬜ |
+| **CEO** | IP-026-CEO | Review content + viết How We Build + code 5 trang + cross-linking + sitemap. | 28/03 | ✅ |
+| **DES** | IP-026-DES | Visual assets cho 5 trang. Xem ghi chú cuối mỗi content file. | 25/03 | ✅ |
+| **MKT** | IP-026-MKT | Review website sau khi deploy. Kiểm tra nội dung, links, SEO. | 31/03 | ✅ |
 
 ## 7. Status
 
-`Đang triển khai — content 4/5 trang hoàn thành`
+`Hoàn thành` ✅ — 2026-04-06
 
 ## 8. Liên kết
 

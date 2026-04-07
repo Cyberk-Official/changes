@@ -11,8 +11,8 @@ date,time,type,ip,task,channel,action,on_complete,status
 2026-03-24,09:00,follow,IP-027,,ALL,Mid-point check: seminar đã lên lịch chưa? bài viết draft xong chưa? deadline 31/03 nhé.,Cập nhật trạng thái,pending
 2026-03-28,09:00,follow,IP-027,,ALL,Nhắc trước deadline: bài viết + slide seminar + branding update phải xong 31/03.,Cập nhật trạng thái,pending
 2026-03-31,09:00,follow,IP-027,,ALL,Hôm nay là deadline — thu kết quả toàn bộ.,Cập nhật trạng thái,pending
-2026-03-19,09:00,assign,IP-026,IP-026-DES,DES,Giao task: visual assets cho 5 trang website mới. Đọc ghi chú cuối mỗi content file.,IP-026-DES → doing,pending
-2026-03-22,09:00,follow,IP-026,IP-026-DES,DES,Nhắc giữa deadline: assets đang tiến triển thế nào? cần hỗ trợ gì? deadline 25/03 nhé.,Cập nhật trạng thái,pending
-2026-03-25,09:00,follow,IP-026,IP-026-DES,DES,Hôm nay là deadline — bạn nhớ hoàn thành visual assets nhé!,Cập nhật trạng thái,pending
-2026-03-29,09:00,assign,IP-026,IP-026-MKT,MKT,Giao task: review 5 trang website mới đã deploy. Kiểm tra nội dung + links + SEO + responsive.,IP-026-MKT → doing,pending
-2026-03-31,09:00,follow,IP-026,IP-026-MKT,MKT,Hôm nay là deadline — bạn nhớ hoàn thành review website nhé!,Cập nhật trạng thái,pending
+2026-03-19,09:00,assign,IP-026,IP-026-DES,DES,Giao task: visual assets cho 5 trang website mới. Đọc ghi chú cuối mỗi content file.,IP-026-DES → doing,done
+2026-03-22,09:00,follow,IP-026,IP-026-DES,DES,Nhắc giữa deadline: assets đang tiến triển thế nào? cần hỗ trợ gì? deadline 25/03 nhé.,Cập nhật trạng thái,done
+2026-03-25,09:00,follow,IP-026,IP-026-DES,DES,Hôm nay là deadline — bạn nhớ hoàn thành visual assets nhé!,Cập nhật trạng thái,done
+2026-03-29,09:00,assign,IP-026,IP-026-MKT,MKT,Giao task: review 5 trang website mới đã deploy. Kiểm tra nội dung + links + SEO + responsive.,IP-026-MKT → doing,done
+2026-03-31,09:00,follow,IP-026,IP-026-MKT,MKT,Hôm nay là deadline — bạn nhớ hoàn thành review website nhé!,Cập nhật trạng thái,done
