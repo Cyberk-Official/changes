@@ -17,8 +17,8 @@ deadline: 2026-03-20
   - Một kick-off lộn xộn sẽ làm ảnh hưởng first impression với khách hàng.
   - Cyberk đang scale, cần workflow để dù PM hay CEO cũng có thể làm chuẩn.
 * **Key Results (Kết quả cần đạt):**
-  * *KR1:* Xây dựng file Workflow `workflows/project-kickoff-workflow.md`.
-  * *KR2:* Tạo Checklist template `workflows/project-kickoff-checklist.md`.
+  * *KR1:* Xây dựng file Workflow `skills/project-kickoff-workflow.md`.
+  * *KR2:* Tạo Checklist template `skills/project-kickoff-checklist.md`.
   * *KR3:* 100% dự án mới từ tháng 4/2026 áp dụng workflow này (đo bằng việc có file checklist riêng cho từng dự án).
   * *KR4:* Thời gian kick-off trung bình ≤ 1 giờ.
 * **Risks (Rủi ro & Biện pháp):**

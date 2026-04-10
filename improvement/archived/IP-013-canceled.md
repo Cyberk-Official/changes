@@ -1,6 +1,7 @@
 ---
 type: ip
 tags: [cyberk-way, solo-dev, training]
+status: canceled
 ---
 
 # IP-013: Đóng gói Phương pháp Phát triển Phần mềm Cyberk
@@ -41,3 +42,11 @@ tags: [cyberk-way, solo-dev, training]
 
 - **Hiệu quả thấp (Low ROI):** Tốn nhiều thời gian đóng gói nhưng không đem lại hiệu quả tương xứng nếu không được sử dụng.
 - **Thiếu giám sát (Missing Monitoring):** Bỏ qua quá trình monitoring dẫn tới việc chuyển đổi chỉ mang tính hình thức, không "tới" (incomplete transformation).
+
+## 6. Status
+
+`Hủy bỏ / Canceled`
+
+## 7. Thực tế (Ghi chú/Dấu vết)
+
+Hủy bỏ IP này do đã trùng mục đích với IP-030 (Đóng gói Asimov pipeline).

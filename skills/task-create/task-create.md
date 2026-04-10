@@ -40,7 +40,7 @@ Với mỗi bộ phận trong IP, tạo file:
 changes/tasks/IP-XXX/IP-XXX-[DEPT].md
 ```
 
-Dùng template tại `changes/workflows/task-template.md`.
+Dùng template tại `changes/skills/task-template.md`.
 
 **Nguyên tắc viết task:**
 
@@ -72,7 +72,7 @@ Trước khi lưu, kiểm tra mỗi task file:
 Sau khi tạo xong tất cả task files:
 
 ```bash
-cd /Users/anderson/Desktop/works/changes/neo-task-assign/scripts
+cd /Users/anderson/Desktop/works/changes/skills/task-assign/scripts
 bun run assign.ts IP-XXX-DEV DEV
 bun run assign.ts IP-XXX-DES DES
 bun run assign.ts IP-XXX-QA QA

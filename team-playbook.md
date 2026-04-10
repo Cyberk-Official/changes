@@ -183,8 +183,8 @@ tags: [organization, giao-viec, playbook]
 
 > Quy trình tạo task và giao việc đã được tách thành workflow riêng.
 
-- **Workflow tạo task:** [workflows/task-create/task-create.md](workflows/task-create/task-create.md)
-- **Template task:** [workflows/task-create/task-template.md](workflows/task-create/task-template.md)
+- **Workflow tạo task:** [skills/task-create/task-create.md](skills/task-create/task-create.md)
+- **Template task:** [skills/task-create/task-template.md](skills/task-create/task-template.md)
 - **Script giao việc:** [neo-task-assign](neo-task-assign/SKILL.md)
 
 ---

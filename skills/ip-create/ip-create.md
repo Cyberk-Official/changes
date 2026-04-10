@@ -7,11 +7,11 @@ description: Tạo mới Improvement Plan (IP) từ ý tưởng — hoạch đ�
 # Quy trình Tạo mới Improvement Plan (IP)
 
 > Workflow này CHỈ tập trung vào **hoạch định** — tạo ra IP mới từ ý tưởng.
-> Template: `workflows/ip-create/ip-template.md`
+> Template: `skills/ip-create/ip-template.md`
 
 > [!IMPORTANT]
 > Workflow này **KHÔNG** bao gồm việc điền Kế hoạch triển khai (Execution Plan), tạo task files, hay lập lịch theo dõi.
-> Khi IP sẵn sàng triển khai → chuyển sang `workflows/ip-execute/ip-execute.md`.
+> Khi IP sẵn sàng triển khai → chuyển sang `skills/ip-execute/ip-execute.md`.
 
 ---
 
@@ -19,7 +19,7 @@ description: Tạo mới Improvement Plan (IP) từ ý tưởng — hoạch đ�
 
 | File / Folder | Vai trò |
 |---------------|---------|
-| `workflows/ip-create/ip-template.md` | Template chuẩn — mọi IP phải dùng template này |
+| `skills/ip-create/ip-template.md` | Template chuẩn — mọi IP phải dùng template này |
 | `improvement/IP-[XXX]-doing.md` | File IP riêng lẻ |
 | `improvement/kanban-board.md` | Bảng Kanban theo dõi trạng thái |
 
@@ -44,7 +44,7 @@ description: Tạo mới Improvement Plan (IP) từ ý tưởng — hoạch đ�
 
 ### Bước 3 — Soạn thảo IP
 
-1. Dùng `workflows/ip-create/ip-template.md` làm cấu trúc.
+1. Dùng `skills/ip-create/ip-template.md` làm cấu trúc.
 2. Điền các mục: Mục tiêu, Lý do, Key Results, Risks.
 3. Đặt Status = `Chưa bắt đầu`.
 4. **Không điền** Plans (Kế hoạch hành động), Kế hoạch triển khai, Lịch theo dõi — đó thuộc giai đoạn thực thi.
@@ -64,4 +64,4 @@ description: Tạo mới Improvement Plan (IP) từ ý tưởng — hoạch đ�
 
 ---
 
-> **Bước tiếp theo:** Khi IP sẵn sàng triển khai → thực hiện `workflows/ip-execute/ip-execute.md`.
+> **Bước tiếp theo:** Khi IP sẵn sàng triển khai → thực hiện `skills/ip-execute/ip-execute.md`.

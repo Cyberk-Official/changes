@@ -7,7 +7,7 @@ description: Triển khai IP đã được hoạch định — bổ sung executi
 # Quy trình Triển khai IP (Execution)
 
 > Workflow này tập trung vào **thực thi** — từ IP đã được hoạch định, tạo Execution Plan, task files, và lập lịch theo dõi trong scheduler tổng.
-> Điều kiện: IP đã được tạo qua `workflows/ip-create/ip-create.md`.
+> Điều kiện: IP đã được tạo qua `skills/ip-create/ip-create.md`.
 
 ---
 
@@ -20,7 +20,7 @@ description: Triển khai IP đã được hoạch định — bổ sung executi
 | `tasks/IP-[XXX]/` | Folder chứa task files chi tiết |
 | `scheduler.csv` | **Lịch theo dõi tổng** — single source of truth cho assign, follow, review |
 | `improvement/diary/` | Nhật ký triển khai hằng ngày |
-| `workflows/ip-create/ip-template.md` | Tham khảo format Execution Plan |
+| `skills/ip-create/ip-template.md` | Tham khảo format Execution Plan |
 
 ---
 
@@ -119,6 +119,8 @@ AI/Scheduler đọc **`scheduler.csv`** để biết hành động cần thực 
 | `assign` | `bun run assign.ts` | Gửi Telegram: task, mô tả, deadline | Task trạng thái → `doing` |
 | `follow` | `bun run follow.ts` | Hỏi tiến độ, thu kết quả qua Telegram | Execution Plan trạng thái + Thực tế |
 | `review` | (manual) | Tổng hợp, báo cáo CEO | Status IP, Kanban Board |
+
+**Scripts:** `skills/task-assign/scripts/assign.ts`, `follow.ts`
 
 Khi gặp **blocker**: đánh dấu task = `blocked`, ghi lý do, thông báo CEO qua Telegram.
 

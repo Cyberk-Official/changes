@@ -70,7 +70,7 @@ Hoàn thiện bộ paperwork chuẩn hóa cần thiết để kick-off bất k�
 
 - Export tất cả templates sang PDF chuyên nghiệp.
 - Tạo **Agreement Selection Guide** — flowchart: loại dự án nào → dùng agreement nào.
-- Cập nhật [agreements-creator.md](../../../bd/workflows/agreements-creator.md) workflow.
+- Cập nhật [agreements-creator.md](../../../bd/skills/agreements-creator.md) workflow.
 - Tạo quy trình DocuSign integration (nếu cần).
 
 ## 5. Rủi ro (Risks)
@@ -90,7 +90,7 @@ Hoàn thiện bộ paperwork chuẩn hóa cần thiết để kick-off bất k�
 - **→ [IP-020](./IP-020-doing.md):** Sales Kit — Sales Kit dẫn tới deal → cần Agreement Kit để close
 - **Agreement Templates:** [/bd/agreements/](../../../bd/agreements/)
 - **Active Agreements:** [/bd/active-agreements/](../../../bd/active-agreements/)
-- **BD Workflows:** [/bd/workflows/](../../../bd/workflows/)
+- **BD Workflows:** [/bd/skills/](../../../bd/skills/)
 
 ## 8. Thực tế (Ghi chú/Dấu vết)
 

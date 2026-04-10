@@ -1,7 +1,7 @@
 ---
 type: improvement-plan
 tags: [cyberk-way, service, marketing, strategy]
-status: doing
+status: archived
 priority: high
 created: 2026-03-14
 ---
@@ -82,7 +82,7 @@ Cập nhật 3 service pages trên cyberk.io (Product Design, Product Build, Tec
 
 ## 8. Status
 
-`Đang triển khai` — CEO đang review service descriptions (IP-023-CEO).
+`Đã hoàn thành / Archived`
 
 ## 9. Liên kết
 
@@ -99,3 +99,4 @@ Cập nhật 3 service pages trên cyberk.io (Product Design, Product Build, Tec
 - **2026-03-16:** Đã sử dụng service specs thành công trong proposal MemoryOS (Product Build Pro + Product Design AIO).
 - **2026-03-17:** Cập nhật IP — reframe từ "triển khai mới" sang "tái cấu trúc" dịch vụ hiện có. Mapping: MVP Development → Product Build, Tech Labs giữ nguyên, Kick-starter Marketing + Community Dev → gộp vào Product Design AIO. Tech Labs service description hoàn tất.
 - **2026-03-17:** Tái cấu trúc IP theo workflow mới. Thu hẹp scope về service pages trên website. Các scope khác (sales deck, đào tạo nội bộ, quảng bá, thông báo khách hàng) tách thành IP riêng.
+- **2026-04-08:** Đã thực thi xong toàn bộ task đề ra. Project hoàn thành, đóng lại để lưu trữ (Archived).

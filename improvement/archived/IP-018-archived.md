@@ -73,7 +73,7 @@ Khánh triển khai feature theo quy trình:
 
 ## 7. Status
 
-`Chưa bắt đầu`
+`Thất bại / Archived`
 
 ## 8. Liên kết (Related IPs)
 
@@ -84,4 +84,4 @@ Khánh triển khai feature theo quy trình:
 
 ## 9. Thực tế (Ghi chú/Dấu vết)
 
-*(Chưa có — sẽ cập nhật khi bắt đầu triển khai)*
+Đã triển khai. Kết quả là thất bại, cf-workflow không hoạt động như kỳ vọng, cần cải tiến việc convert từ figma ra code.

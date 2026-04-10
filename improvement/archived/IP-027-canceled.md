@@ -1,7 +1,7 @@
 ---
 type: improvement-plan
 tags: [cyberk-way, agentic, ai, branding, content, seminar]
-status: doing
+status: canceled
 priority: high
 created: 2026-03-17
 ---
@@ -39,7 +39,7 @@ Xem `scheduler.csv`.
 
 ## 6. Status
 
-`Đang triển khai — đã giao task 18/03`
+`Hủy bỏ / Canceled`
 
 ## 8. Liên kết
 
@@ -49,3 +49,7 @@ Xem `scheduler.csv`.
 - `gitbook/workflow/sb7/workflow.md` — SB7 Narrative Development Workflow (quy trình viết)
 - `gitbook/workflow/sb7/template.md` — SB7 Template (câu hỏi Socratic chi tiết)
 - [StoryBrand SB7 — Donald Miller](https://storybrand.com/) — Building a StoryBrand
+
+## 9. Thực tế (Ghi chú/Dấu vết)
+
+Hủy bỏ IP này do đã có khá nhiều IP trùng mục đích và công ty đã có một Strategy (ST) rõ ràng cho việc phát triển năng lực AI Agentic.
