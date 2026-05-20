@@ -3,7 +3,7 @@ type: task
 tags: [task, qa]
 source: IP-023
 department: QA
-status: todo
+status: done
 priority: medium
 created: 2026-03-14
 deadline: 2026-04-07

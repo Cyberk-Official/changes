@@ -6,7 +6,7 @@ assignee: Huy (CTO)
 status: todo
 priority: high
 created: 2026-03-18
-deadline: 2026-03-22
+deadline: 2026-05-30
 ---
 
 # IP-028-BST: Viết bài cách Cyberk xây dựng hệ thống Agentic

@@ -6,7 +6,7 @@ assignee: Nguyễn Bá Tú
 status: todo
 priority: high
 created: 2026-04-08
-deadline: 2026-05-09
+deadline: 2026-06-30
 ---
 
 # IP-032-DEV: Triển khai Data Pipeline cho Relmo & Visible Brand

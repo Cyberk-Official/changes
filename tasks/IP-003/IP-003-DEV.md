@@ -2,16 +2,16 @@
 type: task
 source: IP-003
 department: DEV
-assignee: Trường (Brian)
-status: todo
+assignee: Nikita
+status: doing
 priority: high
 created: 2026-03-18
-deadline: 2026-04-14
+deadline: 2026-05-30
 ---
 
 # IP-003-DEV: Tool đồng bộ Meeting Minutes + Tập trung hoá Calendar
 
-> Người phụ trách: **Trường** (Brian)
+> Người phụ trách: **Nikita** (DEV)
 > IP gốc: [IP-003](../../improvement/IP-003-doing.md)
 
 ## Mục tiêu

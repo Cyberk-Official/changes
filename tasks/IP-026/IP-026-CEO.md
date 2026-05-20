@@ -1,7 +1,7 @@
 ---
 type: task
 tags: [ceo, website, content, code, deploy]
-status: todo
+status: done
 deadline: 2026-03-28
 ---
 

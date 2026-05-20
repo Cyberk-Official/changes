@@ -6,7 +6,7 @@ assignee: Anderson
 status: todo
 priority: high
 created: 2026-04-08
-deadline: 2026-07-08
+deadline: 2026-06-30
 ---
 
 # IP-032-CEO: Marketing & BD cho Data Pipeline Service

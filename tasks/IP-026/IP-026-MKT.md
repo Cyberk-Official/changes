@@ -1,7 +1,7 @@
 ---
 type: task
 tags: [mkt, website, review, seo]
-status: todo
+status: done
 deadline: 2026-03-31
 ---
 

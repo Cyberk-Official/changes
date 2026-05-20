@@ -1,7 +1,7 @@
 ---
 type: task
 tags: [design, website, figma, capabilities, about-us]
-status: todo
+status: done
 deadline: 2026-03-25
 ---
 

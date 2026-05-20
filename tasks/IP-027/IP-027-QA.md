@@ -3,7 +3,7 @@ type: task
 source: IP-027
 department: QA
 assignee: Hương
-status: todo
+status: done
 priority: high
 created: 2026-03-17
 deadline: 2026-04-14

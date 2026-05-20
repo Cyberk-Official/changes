@@ -3,7 +3,7 @@ type: task
 tags: [task, bst]
 source: IP-023
 department: BST
-status: todo
+status: done
 priority: high
 created: 2026-03-17
 deadline: 2026-04-07
