@@ -1,6 +1,7 @@
 ---
 type: ip
 tags: [solo-dev, organization, cyberk-way]
+status: done
 ---
 
 # Cải tiến 12 (IP-012): Tái cấu trúc Tổ chức theo mô hình Solo-Dev
@@ -25,5 +26,6 @@ tags: [solo-dev, organization, cyberk-way]
   * *Rủi ro 1:* **Sốc văn hóa (Culture Shock):** Nhân sự cũ có thể cảm thấy bất an hoặc kháng cự với mô hình làm việc mới đòi hỏi tính tự chủ cao. -> *Mitigation:* Tổ chức các buổi Townhall chia sẻ minh bạch về tầm nhìn, lộ trình và lợi ích. Thực hiện các buổi 1-on-1 để lắng nghe và giải đáp thắc mắc.
   * *Rủi ro 2:* **Khoảng trống nhân sự (Skill Gap):** Việc loại bỏ vị trí cũ và tuyển mới có thể tạo ra khoảng trống tạm thời, ảnh hưởng đến tiến độ dự án đang chạy. -> *Mitigation:* Thực hiện chuyển đổi cuốn chiếu (rolling transition), đảm bảo có người thay thế hoặc bàn giao đầy đủ trước khi thay đổi nhân sự.
   * *Rủi ro 3:* **Phụ thuộc vào "Siêu nhân" (Bus Factor):** Mô hình Solo-dev dễ dẫn đến việc dự án bị phụ thuộc hoàn toàn vào một cá nhân. -> *Mitigation:* Bắt buộc tuân thủ quy trình Documentation (IP-006) và Audit (IP-007) để đảm bảo kiến thức dự án luôn được minh bạch và có thể chuyển giao bất cứ lúc nào.
-* **Status:** `Chưa bắt đầu`
-* **Thực tế (Ghi chú/Dấu vết):** *(sẽ cập nhật liên kết tới Sơ đồ tổ chức mới, Sổ tay Solo-dev)*
+* **Status:** `Done`
+* **Thực tế (Ghi chú/Dấu vết):**
+  * 2026-06-13: ✅ Hoàn thành. Archive IP.

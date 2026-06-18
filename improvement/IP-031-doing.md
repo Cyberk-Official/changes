@@ -24,6 +24,8 @@ tags: [cyberk-way, operations]
   * *Rủi ro 2:* Áp lực từ 1-Day Sprint khiến nhân sự dễ bị stress hoặc ôm việc quá sức trong 1 ngày. -> *Mitigation:* Chia nhỏ phạm vi công việc đúng chuẩn 1 ngày rưỡi để nhân sự dễ thở; hiểu rằng "tiến độ nhỏ cũng là tiến độ".
 
 * **Status:** `Chưa bắt đầu`
-* **Thực tế (Ghi chú/Dấu vết):** *(sẽ cập nhật liên kết tới tài liệu, PR, hoặc kết quả thực tế tại đây)*
+* **Thực tế (Ghi chú/Dấu vết):**
+  * Liên kết liên quan: [[IP-033-doing]]
+  * 2026-06-13: IP-031 là item đầu tiên / nền tảng cho IP-033 (Chuẩn hoá Phương thức Vận hành Công ty). Cấu trúc họp 3-phase và 1-Day Sprint sẽ được đưa vào handbook vận hành dự án.
 
 ---

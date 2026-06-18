@@ -1,7 +1,7 @@
 ---
 type: improvement-plan
 tags: [cyberk-way, philosophy, software-design, gitbook]
-status: todo
+status: done
 priority: high
 created: 2026-03-15
 ---

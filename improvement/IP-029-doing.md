@@ -27,5 +27,6 @@ deadline: 2026-03-20
   * *Rủi ro 3:* Quá nhiều bước làm lố 1 giờ -> *Mitigation:* Áp dụng tính năng parallel execution (nhiều bước tiến hành song song) và sử dụng mẫu chuẩn có sẵn.
 * **Status:** `Đang triển khai — deadline 20/03/2026`
 * **Thực tế (Ghi chú/Dấu vết):**
-  * Liên kết liên quan: [[IP-003-doing]], [[IP-023-doing]]
+  * Liên kết liên quan: [[IP-003-doing]], [[IP-023-doing]], [[IP-033-doing]]
   * 2026-03-20: Đã tạo IP từ yêu cầu của CEO và xác định được 8 bước chính trong flow.
+  * 2026-06-13: Bổ sung liên kết IP-033 — IP này là một phần của handbook vận hành dự án, nội dung kick-off sẽ được đưa vào "Bí kíp phát triển dự án v2".

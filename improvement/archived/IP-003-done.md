@@ -1,7 +1,7 @@
 ---
 type: improvement-plan
 tags: [automation, native-ai, meeting, calendar]
-status: doing
+status: done
 priority: high
 created: 2026-03-01
 updated: 2026-03-18
@@ -49,7 +49,7 @@ Không chỉ tiết kiệm thời gian ghi chép, mà còn biến meeting minute
 
 ## 5. Status
 
-`Doing`
+`Done`
 
 ## 6. Phân công
 
@@ -64,3 +64,4 @@ Không chỉ tiết kiệm thời gian ghi chép, mà còn biến meeting minute
 ## 8. Thực tế (Ghi chú/Dấu vết)
 
 - **2026-03-18:** Cập nhật IP — thêm yêu cầu commit đầy đủ vào GitHub, tích hợp toàn bộ team đang call khách hàng, tập trung hoá và visualize meeting calendar. Tạo task IP-003-DEV cho Trường.
+- **2026-06-13:** ✅ Hoàn thành. Archive IP.

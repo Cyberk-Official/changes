@@ -1,6 +1,7 @@
 ---
 type: ip
 tags: [finance, automation]
+status: done
 ---
 
 # IP-019: Nâng cấp Hệ thống Thông tin Quản lý Tài chính
@@ -80,7 +81,7 @@ Tái cấu trúc và cập nhật toàn bộ hệ thống thông tin quản lý 
 
 ## 6. Status
 
-`Chưa bắt đầu`
+`Done`
 
 ## 7. Liên kết (Related)
 
@@ -92,6 +93,6 @@ Tái cấu trúc và cập nhật toàn bộ hệ thống thông tin quản lý 
 
 ## 8. Thực tế (Ghi chú/Dấu vết)
 
-*(Chưa có — sẽ cập nhật khi bắt đầu triển khai)*
+- **2026-06-13:** ✅ Hoàn thành. Archive IP.
 
 ---

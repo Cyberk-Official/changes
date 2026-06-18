@@ -1,6 +1,7 @@
 ---
 type: ip
 tags: [legal, broker]
+status: done
 ---
 
 # IP-021: Agreement Kit — Bộ văn bản Pháp lý Kick-off Dự án
@@ -81,7 +82,7 @@ Hoàn thiện bộ paperwork chuẩn hóa cần thiết để kick-off bất k�
 
 ## 6. Status
 
-`To Do`
+`Done`
 
 ## 7. Liên kết (Related)
 
@@ -94,4 +95,4 @@ Hoàn thiện bộ paperwork chuẩn hóa cần thiết để kick-off bất k�
 
 ## 8. Thực tế (Ghi chú/Dấu vết)
 
-*(Chưa có — sẽ cập nhật khi bắt đầu triển khai)*
+- **2026-06-13:** ✅ Hoàn thành. Archive IP.

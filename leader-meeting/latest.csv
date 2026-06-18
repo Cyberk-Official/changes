@@ -1,0 +1,980 @@
+,15/06/2026,01/06/2026,25/05/2026,19/05/2026,12/05/2026,07/05/2026,28/04/2026,22/04/2026,14/04/2026
+Overview,"Anderson:
+- Review lại policy và công bố vào tuần sau
+- 
+
+Kane:
+- Tổ chức AI workshop
+- Cung cấp và hỗ trợ Gzeni (Trung) cài asimov để code tool quản lý account
+
+Brian:
+- Onboard Đức thành Product lead
+- Làm plan workshop để Hương và Huy tổ chức
+- Contact riêng Vesper xem có khúc mắc gì về phần mở rộng của america
+- Hỗ trợ em Trung lấy feedback từ KH Ghola => đóng gói report cho KH để Kh review các tính năng đã làm xong
+- Lên lịch họp external và internal cho từng dự án ngay giai đoạn planning và có báo cáo qua telegram hàng tuần để nắm bắt được tình trạng dự án sớm
+
+Rawin:
+- Cân nhắc việc báo khách cho 1 ví $1k dùng để test
+
+Gzeni:
+- Lên thêm bài về workshop Ai và Hackathon recap
+
+
+Kate:
+- Phổ biến lịch meeting cho các team > tạo gg meet để add mọi người vào lịch họp
+- Riz: báo dev đổi mật khẩu cho các acc product
+
+Nia:
+- Bổ sung yếu tố Horéno trong các báo cáo tuần","Anderson:
+ - Thông báo và thống nhất policy trong đầu tháng 6
+ - Sang Sing hẹn khách hàng để họp bàn về next-steps. 
+ - Cần tiếp tục thêm 2-3 broker nữa để duy trì và phát triển các deal mới
+ - Tập trung viết bài trở lại
+
+Kane:
+- Tạo code template cho buổi workshop AI vào thứ 7 tuần này
+- Cung cấp tài liệu liên quan tới workshop cướp cờ cho Trung
+
+Brian:
+- Thông báo mng tham gia Ai workshop vào cuối tuần
+- Gather lại yêu cầu của Jon cho a Huy làm est Koto
+- Cần cho pre-launch testing, demo bên Sing với khách vào plan ngay từ đầu
+
+Rawin:
+- 
+
+Gzeni:
+- Làm hồ sơ xin tích xanh Meta
+- Lên bài về buổi public test của SkinAgent (văn hóa testing, văn hóa làm việc)
+- Làm bài viết về workshop cướp cờ, lấy tài liệu từ anh Huy
+- Lên bài về workshop AI tuần này
+
+Kate:
+- Báo fb tới dev team SkinAgent: nhiều chữ ở mọi tính năng, cần tối ưu hiển thị để dễ hiểu, gần gũi với ngôn ngữ đời thường và Optimize token, đang tốn tiền quá
+
+Nia:
+-","Anderson:
+- 
+
+Kane:
+- Lên ý tưởng cho AI workshop tuần này để Trường plan và triển khai
+- Kiểm tra vấn đề hết token của dự án SkinAgent
+
+Brian:
+- plan và triển khai AI workshop sau khi nhận được ý tưởng
+
+Rawin:
+- 
+
+Gzeni:
+- 
+
+Kate:
+- Cho cả cty test dự án Skin Agent vào thứ 5
+- Báo với anh Đới về việc không code các tính năng của Riz hiện tại
+
+Nia:
+- Sửa lại video và waitlist cho Koto","Anderson:
+- Nghiên cứu, xây dựng hệ thống thưởng phi vật chất
+- Vẽ Dashboard tổng quan về kinh doanh (số offer, dòng tiền,....)
+- Làm lại confidentiality agreement cho toàn bộ nhân viên
+
+Kane:
+- Build prototype cho dự án Koto của Jon bao gồm cả UI, giao dịch sanbox
+
+Brian:
+- Gửi thông tin con titan cho Kevin để có thêm thông tin cung cấp kho khách hàng
+- Chủ động tư vấn EVM cho khách
+- Họp với khách hàng về giai đoạn tiếp theo của dự án: đi tiếp với limitation về connect whatsapp hoặc cho close dự án Relmo
+- Gửi thông báo workshop AI Sync vào thứ 6 tuần này
+- Confirm với khách hàng relmo và visibleBrands để lấy các video demo cho các trang social của Cyberk
+- Thông báo tới tất cả mọi người trong việc cẩn trọng khi cái AI proxy,..
+
+Rawin:
+- Thay đổi nền tảng cần tracking trên Atlantis, cần tư vấn thêm về sàn CEX cho khách hàng atlantis
+
+Gzeni:
+- Thêm các thông tin về sự kiện nội bộ trên các trang social
+
+
+Kate:
+- Hẹn bên anh Đới thứ 5 sẽ cho ae ngồi test để xử lý các vấn đề còn lại
+
+Nia:
+- Tìm lại Figma con Titan gửi cho Trường
+- Gửi design công ty các phần đã xong cho Tuấn làm dần",,"Anderson:
+- 
+
+Kane:
+- Cần làm pipeline B2B thu thập thông tin người dùng cho dự án Skin Agent (warehouse, ....)
+
+Brian:
+- Tổ chức workshop thứ 6 cho ae
+- Push AI sync tổ chức và hoạt động đều lại
+- Báo team oracel cắt hết vận hành trừ Staking và Unstaking
+
+Rawin:
+- Quay lại nghiên cứu AI x crypto
+
+Gzeni:
+- Tạo tài khoản Cyberk business, whatsapp,..
+- Mua domain để chạy quảng cáo
+- Nghiên cứu sử dụng AI để làm quảng cáo
+
+Kate:
+- Nhắc Huy-san tạo ví quỹ
+
+Nia:
+- Sửa website công ty, team design tự triển khai và đưa các option cho Anderson chọn
+- Làm 3 landingpage cho dự án VisibleBrands để chạy quảng cáo (detail làm việc với Trung)
+","Anderson:
+- Hoàn thành đăng ký hackathon
+
+Kane:
+- Hoàn thành đăng ký hackathon
+- Xác định và nghiên cứu thêm về hướng đi của con asimov
+
+Brian:
+- Sắp xếp lại nhân lực
+- Họp est giải pháp cho aslantis và tổ chức workshop là AI Agent
+- Gửi lại các nền tàng mà Aslantis muốn kiểm tra cho Phong
+
+Rawin:
+- Quay lại nghiên cứu về AI x Blockchain (x402, ERC 8004, ERC 8183, ...)
+- Support Aslantis
+
+Gzeni:
+- Làm thêm carosel cho Instagram
+
+Kate:
+- Hoàn thành audit report cho skinagent và focus test trước 1/5
+
+Nia:
+- 
+","Anderson:
+- Build AI kanband để cho khách hàng/ quản lý có thể nhìn thấy AI làm việc và ae đang sử dụng AI như nào
+
+Kane:
+- Setup pipeline để gửi cho JJ
+- Quy trình hóa issue scurite cơ bản cho các dự án
+- Cân nhắc budget cho AI hàng tháng
+
+Brian:
+- nhân rộng co-work
+- Update lại bài viết
+
+Rawin:
+- 
+
+Gzeni:
+- Làm audit report cho visibleBrands
+- Cần số hóa trong các báo cáo họp leader từ tuần sau
+
+Kate:
+- Confirm với Hiếu về nhu cầu mkt để giới thiệu Trung sang
+
+Nia:
+- Yêu cầu khách chốt design theo 1 phía
+","Anderson:
+- Xóa các bài viết cũ trên linkIn
+- Nghiên cứu Project based solution cho các hoạt động triển khai của công ty  
+- Assign người giám sát dự án thiết kế văn phòng
+
+Kane:
+- Viết bài về figma
+
+Nia:
+- 
+
+Brian:
+- Lên kế hoạch tổ chức workshop tuần này (thứ 6)
+- Viết bài AI manager (thực trạng thắp hương,...)
+- Apply Cyberk workflow cho Relmo
+- Triển khai team data start với SkinAgent
+- Collect Relmo lấy thực trạng Ai
+Rawin:
+- Đăng ký hackathon tháng 6
+
+Gzeni:
+- Push Nghĩa xử lý beta code cho user
+
+Kate:
+- Lên plan fix bug cho ae Relmo aware
+- Question Ngọc về bug status"
+Anderson,"Deal: 
+Koto chốt lịch triển khai và start. 
+Arco: Trường tiếp tục followup 
+Vendapp quá 3 lần ping, sẽ không nhắc lại nữa 
+JJ: Muốn interview người chất lượng.
+Skin Agent: Trường bổ sung 
+Americ-fun: propose dự án mới nhưng ae không awared được 
+Hackathon Failed. 
+---
+
+Vấn đề Tồn đọng: 
+
+- Team Relmo có vẻ chưa dùng Asimov, Cần cài Asimov lens để bổ sung 
+- Làm lại policy để mọi người cùng reviews 
+- Tiếp tục tìm nguồn khách hàng mới.
+- Chưa có bài mới tuần đi sing. Cần bổ sung
+
+Đề xuất
+
+- Hương & Trường tổ chức lại dashboard meeting với các taem để sync họp và có báo cáo hằng tuần. 
+- Cập nhật chính sách , policy
+- Khách hàng nói chuyện nhiều hơn ý tưởng về second-brain, tìm cách xây các added-value cho khách hàng ","Deal: 
+
+Koto: Trường follow up. 
+Arco: Trường follow up. 
+Vendapp: Khách hàng vẫn chần chừ, giảm tỉ lệ chốt thành công xuống 10%
+JJ: Hợp đồng dự tính 84k -> lớn nhất của năm nay
+Skin agent: cần làm việc để chốt phương án của tháng 6. 
+Re-skin: Reskin Hyperliquid. 
+America fun: đề xuất mở rộng hợp đồng. 
+
+Vấn đề tồn đọng: 
+
+ - Thay đổi chính sách thưởng dự án. Bỏ thưởng dự án.   Thống nhất ngày mới để thông báo và thống nhất policy. 
+ - Sang Sing hẹn khách hàng để họp bàn về next-steps. 
+ - Cần tìm kiếm khách hàng mới. Nguồn khách hàng qua các kênh cũ có vẻ không nhiều nữa. cần tiếp tục thêm 2-3 broker nữa
+ - Bị ảnh hưởng tiến độ viết bài khi tài chính gặp vấn đề 
+
+Đề xuất: 
+
+- Tháng này bắt đầu với việc viết bài trở lại 
+- Facebook công ty các post cũ có vẻ sinh động và nhiều hoạt động thú vị. từ hồi Huyền bé làm. tìm cách để tiếp tục duy trì 
+- Quality report workprocess có vẻ không hoạt động. vì vậy cần làm đơn giản hoá. tập trung vào functionality check. -> cần xem lại. 
+
+","Các Deal 
+Koto: Jon đang muốn raise fund
+Vendapp: đang ping-pong 
+Ghola: Deal 5k / developer. Andy vui vẻ - Commitment cao, công việc sẽ khá nặng. 
+JJ: Đang định dắt dự án mới, chuyển đổi C# sang React native. 
+Arco: Trường follow deal -> report nhé 
+Relmo: mở rộng thêm hợp đồng 5k
+Visible: brand cancel supcriptions 
+---- 
+
+Vấn đề tồn đọng: 
+Điện yếu -> Chủ động vệ sinh điều. 
+- chuẩn bị kế hoạch đi SG. 
+- Thưởng dự án hoạt động không hiệu quả. Thay bằng cho ae đi demo khách hàng bên SG. 
+- Asimov Lends thêm tính năng tích hợp Liner để visualize dự án. 
+
+Đề xuất
+Hương bám sát vụ đường điện cùng với Huyền 
+Hẹn lichj gặp các đối tác cần thiết. 
+","Các việc đã làm được: 
+- JJ Bắt đầu ra tiền 
+- Andy đưa thêm 1 dự án mới. -> Project based. 
+- Arco: chốt scoped of work. 
+    - Launch-pad, Staking, Ecosystem 
+    - Migrate tokens. 
+- Đề xuất mô hình sản xuất 2 người.
+- Koto: 
+
+Vấn đề tồn đọng: 
+- Hình ảnh tổng quan Marketing Cyberk đang không ổn. Thiếu một hình thức kể chuyện nhất quán.
+- Các bài viết về social của công ty bị thiêu. 
+
+Đề Xuất: 
+
+- Xây dựng dashboard quản lý tổng quan công ty 
+- Viết thêm bài về social, và những hoạt động xoay quanh. ","Andy đã trả xong tiền 
+Jerromy đang ứ ừ. cần follow up. 
+Vendapp đã pingpong. 
+
+-----
+
+Việc đã làm được: 
+
+Onboard Dũng vào Skin Agent 
+Tiếp tục xây dựng mô hình kinh doanh mới 
+Phát triển dự án Asimov với Nghĩa 
+
+----
+
+Vấn đề tồn đọng 
+
+Asimov chưa có tiến triển mới cho khách hàng.  Bắt đầu nhìn thấy output từ telegram. 
+Jon có dự án Koto mới cần followup 
+Website vẫn chưa có update design mới. 
+
+-----
+Đề xuất
+
+","Atlantis đã trả tiền. 
+Đang bill Andy 
+Jeromy đang chờ confirm 
+Vendap chờ confirm 
+
+---- 
+Việc đã làm được 
+
+Onboarding Em đạt sang dự án mới.
+Tiếp tục xây dựng mô hình kinh doanh mới. 
+Xây dựng cách tiếp cận cho Asimov 
+
+---
+
+Vấn đề tồn đọng 
+
+Asimov chưa có update mới cho khách hàng (client size)
+Cần tiến triển chỗ Jon. -> Jon bán hàng yếu. 
+Cần contract để phân chia tiền dự án.
+
+","Helix giảm size 1 người 
+Andy giảm size toàn bộ dự án. 
+Jerromy  dự án Vela đang bidding -> 5k. 
+
+Vendapp sẽ catchup lại trong tuần này. 
+Atlantis trường cố chốt 
+----- 
+Việc đã làm được: 
+Onboarding JJ thành công. 
+Tiếp tục xây dựng mô hình kinh doanh và hướng phát triển mới cho Cyberk. 
+Xây dựng cách tiếp cận cho Asimov. 
+
+------
+
+Vấn đề tồn đọng: 
+
+
+
+
+
+-----","- Pinja: chưa có update 
+- Tai - Chưa có update 
+- Fairpay, không có update 
+- Dự án Atlantis có việc
+- Vendapp 
+------
+
+Các Việc đã làm được
+- Đang hoàn thành các tài liệu về Asimov Pipeline. Mục tiêu triển khai pipeline vào tháng 5 2026. cho team của Andy 
+Tuần vừa rồi chưa có khách hàng mới 
+- JJ giới thiệu việc làm, nhưng cần viết và chuẩn bị kỹ tài liệu SDLC 
+- Tuần vừa rồi có thêm 4 bài viết. 
+- Đã có workflow cho Project-based các việc cần làm ở công ty.  
+- Tiếp Andy thành công, và đã có out-put 
+
+Làm việc với bên cho thuê nhà, nhưng quá đắt. 
+------
+
+Các Vấn đề tồn đọng  
+- Website vẫn lỗi thời và còn nhiều lỗi, đang sửa. 
+-----
+
+Cải tiến: 
+- Việc nhiều, không nên kick-off team data ngay. có vẻ như chưa đủ thời gian của Huy để làm 
+- Asimov cần có dashboard, có thể nghiên cứu multica để triển khai. ","Các Việc đã làm được 
+- Có 3 khách hàng / tháng reach qua Clutch và đang đạt đúng kỳ vọng là top công ty làm về Web3 search trên AI/Google.  Tuy nhiên vẫn cần nâng thứ hạng 
+
+Dự án Pinja (Tech-Lab): Bạn đã quy hoạch lại resource, đề xuất scale đội ngũ lên thành 4 FTEs (có kèm UI/UX designer) với ngân sách khoảng 20k$
+Dự án Sempurna x Liquid Ledger: Trực tiếp tham gia tinh chỉnh Requirements Analysis (hệ thống CRM & Billing)
+Dự án TAI: muốn thuê UX/UI 
+Dự án Fair-pay: Tích hợp cổng thanh toán ngân hàng 
+Dự án Blockchain-Medical: Y tế, thuốc chữa bệnh 
+------------
+Các Vấn đề tồn đọng 
+- Mới lên thêm bài về data-pipeline. tối nay publish. tuy nhiên chất lượng post linkedIn đang khá tệ. cần sửa lại. 
+------------
+Vấn Đề Mới Phát Sinh 
+- JJ muốn giới thiệu dự án cho Cyberk,  nên sang gặp cho nó xịn 
+- Vesper phản hồi hơi lâu, thành ra hơi lo lo
+- Ngọc Nghỉ, thiện Nghỉ. Khánh Yếu 
+------------
+Cải Tiến
+- Nghiên cứu Project based solution cho các hoạt động triển khai của công ty "
+Brian,"Các Việc đã làm được
+
+1. Helix - Chỉ có vài thay đổi nhỏ về maintain hoạt động của myrra, chưa có j mới
+2. SkinAgent - Backup plan cho việc release bản beta, cần họp với KH về việc tổ chức marketing cho dự án vào 16-6
+3. America - Phần evm và phoenix đang đợi phản hồi từ vesper, cần contact riêng để clear thắc mắc nếu KH có
+4. Relmo - KH cần ưu tiên UI/UX, cần team OT để fix lại các flow Health dashboard, contact, AI filter conversation, onboarding
+5. Arco - KH gặp khó khăn, có thể sẽ giảm size, cân nhắc cá đối tác mới của Kevin
+6. Atlantis - dự án trong giai đoạn QA để chuẩn bị release
+7. Ghola - Cần focus lấy feed back của KH
+8. Koto - Bắt đầu kick-off, cần monitor quy trình và expect của KH, Đức đang ốm
+
+Các Vấn đề tồn đọng 
+- Chưa có time ngồi với a Huy về hackathon AI Agent
+
+Vấn Đề Mới Phát Sinh 
+- Relmo cần focus vào trải nghiệm sản phẩm hơn là tính năng mới, cần chia công việc hợp lí
+- KH Tria cần support vì bridge bị stuck => đang support update contract
+
+Đề Xuất, Giải pháp & Kế Hoạch
+- Clear yêu cầu đối với hackathon AI Agent, thông báo chính thức và quyết định cách tổ chức, cơ cấu chi phí, địa điểm v.v....
+- Koto: onboarding Đức làm PL thực tập
+- Contact riêng Vesper xem có khúc mắc gì về phần mở rộng của america
+- Hỗ trợ em Trung lấy feedback từ KH Ghola => đóng gói tính năng và bàn giao theo phiên bản
+- KH atlantis và arco đang có hứng thú với việc sử dụng AI và thêm AI vào sản phẩm, có thể là cơ hội bán hàng","Các Việc đã làm được
+
+1. Helix - Chỉ có vài thay đổi nhỏ về maintain hoạt động của myrra, chưa có j mới
+2. SkinAgent - Tổ chức test thành công, rất nhiều feedback về UI/UX và functionality, team đã có plan cover. Dự kiến tuần này kết thúc phase và sẽ có phase mới để lên PROD
+3. America - Đang làm prototype dùng transak với moonpay cho onramp, đã gửi est phần làm thêm EVM nhưng chưa có phản hồi từ Vesper
+4. Relmo - prototype đã full, đang ghép vào UI mới, tiến độ phase mới hiện tại chưa có vấn đề gì gây ra ảnh hưởng
+5. Arco - Đã gửi estimate cho Kevin, chưa thấy có thêm thông tin gì, ngoài ra đã Audit và fix các bug ở alchemy token contract. Bên alchemy gửi PRD cho AAP
+6. Atlantis - dự án hoành thành khoảng 70%
+7. Ghalo - kick-off thành công, Trung sẽ solo dự án
+8. Koto - tuần trước không ai follow up làm anh em không biết phải làm j
+
+Các Vấn đề tồn đọng 
+
+- Chưa có time ngồi với a Huy về hackathon AI Agent
+
+Vấn Đề Mới Phát Sinh 
+- Koto đang dãn nở khá nhanh, cần thận trọng xác định SoW
+
+Đề Xuất, Giải pháp & Kế Hoạch
+
+- Clear đề bài để thông báo tổ chức Hackathon tạo AI agent đến ae, dự kiến timeline 1-2 ngày???
+- Gather lại yêu cầu của Jon cho a Huy làm est Koto","Các Việc đã làm được
+
+1. Helix - Có vấn đề về việc hỗ trợ decimals
+2. SkinAgent - Ae gần như chưa test, focus khá nhiều vào functionality
+3. America - KH cần tích hợp on-ramp, chưa có tiến triển với việc mở rộng ra EVM
+4. Relmo - Thay đổi chiến lược dự án, đã có plan mới, đang triển prototype => est 27/05 sẽ có
+5. Arco - Đã gửi estimate cho Kevin, chưa thấy có thêm thông tin gì
+6. Atlantis - 
+7. Riz - release thành công, không có major issue
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- Chưa tổ chức AI Workshop lần trước
+
+Vấn Đề Mới Phát Sinh 
+(Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân)
+- Relmo thay đổi bussiness, đang chạy prototype
+- Co tiếp tục support Riz không
+
+Đề Xuất, Giải pháp & Kế Hoạch
+(Là các hành động để giải quyết vấn đề nói trên!) 
+- Tổ chức AI Workshop, Agent Hackathon
+- Có thể cân nhắc rút linh khỏi riz để làm prototype nếu cần","Các Việc đã làm được
+
+1. Helix - Chưa phát sinh thêm vấn đề gì, cửa myrra không có tiến triển
+2. SkinAgent - Khá nhiều bug trong phần chat agent, em dũng đang catch up
+3. America - KH đang cần tư vấn EVM
+4. Relmo - Whatsapp connect đang block nếu user đã đang dùng các nền tảng khác
+5. Arco - Kevin sẽ gửi estimate tuần này, tuy nhiên phía KH cũng đang cân nhắc các vendor khác
+6. Atlantis - KH muốn track sàn CEX, cần check tính khả thi và estimate
+7. Riz
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- Chưa nắm bắt được bài toán của KH để tư vấn triệt để
+
+Vấn Đề Mới Phát Sinh 
+(Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân)
+- Relmo Whatsapp
+
+Đề Xuất, Giải pháp & Kế Hoạch
+(Là các hành động để giải quyết vấn đề nói trên!) 
+- Cần nghiên cứu kĩ case của relmo nếu không khả năng cao dự án sẽ chết","Các Việc đã làm được
+
+1. Helix - Chưa phát sinh thêm vấn đề gì
+2. VisibleBrand - vẫn tiếp tục mkt
+3. SkinAgent - Đã onboard Dũng
+4. America - Bắt đầu fix bug + làm các tính năng mà phase trước pending
+5. Relmo - Có plan cho tháng này, KH cần fix hết bug flow để demo trong tuần tới với đối tác quan trọng
+6. Arco - Đã có thông tin về các công việc mới, tuy nhiên phụ thuộc vào Kevin làm BA (KH có design rồi)
+7. Atlantis - Chưa phát sinh gì nghiêm trọng
+8. Riz - cần bàn giao official để follow up, plan: chiều t3 có Ngọc lên transfer
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- AI sync sau tuần nghỉ đang bị lãng quên => Trường push
+- Riz chưa có ai handle
+
+Vấn Đề Mới Phát Sinh 
+(Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân)
+- Trung available => cho làm Riz?
+
+Đề Xuất, Giải pháp & Kế Hoạch
+(Là các hành động để giải quyết vấn đề nói trên!) 
+- Follow up KH arco để xem tiềm năng dự án mới","Các Việc đã làm được 
+
+- Đã chốt deal Atlantis
+
+1. Helix - dấu hiệu không ổn, cần chuẩn bị tinh thần nếu KH cắt dự án
+2. VisibleBrand - Chưa có plan gì mới, cũng chưa có plan cải thiện hiệu năng mkt
+3. SkinAgent - Phase mới, có thay đổi nhân sự, đã nc với Mạnh và Đạt
+4. America - Team nghỉ bù, giải quyết 1 vài vấn đề sau launch
+5. Relmo - KH complain về chất lượng và tiến độ, log Đạt vào để chăm sóc KH
+6. Arco - Đá dừng dev 2 tuần, KH tuần này sẽ làm estimate scope mới
+7. Atlantis - Đã kick-off thành công, Phong sẽ solo dự án
+8. Riz - cần bàn giao official để follow up
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- AI sync sau tuần nghỉ đang bị lãng quên => Trường push
+- Relmo cần plan release cho tháng này
+
+Vấn Đề Mới Phát Sinh 
+Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân
+- Linh muốn làm thêm
+
+Đề Xuất, Giải pháp & Kế Hoạch
+Là các hành động để giải quyết vấn đề nói trên! 
+- Tiếp tục workshop
+- Follow up KH arco để xem tiềm năng dự án mới","Các Việc đã làm được 
+1. Helix - Báo cắt Đức, KH chưa chốt được phase 2 với ngân hàng
+2. VisibleBrand - Vẫn chưa có plan gì để cải thiện
+3. SkinAgent - Phase mới, khá nhiều yêu cầu mới
+4. America - Đã launch, vẫn còn 1 vài vấn đề với các bên thứ 3
+5. Relmo - Thiếu nhân lực, cần người cover AI và design
+6. Arco - Chưa có việc mới
+7. Atlantis - đang chốt estimate
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- Cyberk flow cần tăng hiệu suất, hiện dừng lại ở 80%
+- Data team chưa form
+
+Vấn Đề Mới Phát Sinh 
+Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân
+- Nhiều dự án dừng lại, cần sắp xếp lại nhân lực
+
+Đề Xuất, Giải pháp & Kế Hoạch
+Là các hành động để giải quyết vấn đề nói trên! 
+- Cần họp estimate giải pháp
+- Tổ chức cái workshop làm AI Agent","Các Việc đã làm được 
+1. Helix - Đã bàn giao cho linh, dự án hiện không còn nhiều task, chủ yếu maintain, chưa phát sinh vấn đề gì
+2. VisibleBrand - Markerting đã có thông báo kết quả, hiệu quả cần Trung đánh giá thêm
+3. SkinAgent - Plan release beta 23/4/2026, đang request mạnh đưa plan của phase sau
+4. America - Pending launch để sửa UI fee và contract, dự kiến sẽ phải làm vào ngày nghỉ, đề nghị cho team nghỉ bù 
+5. Relmo - Thiếu nhân lực, task chậm hơn dự kiến nhiều, nên đưa Đạt vào sớm không?
+6. Arco - Hiện khách chưa có plan mới, idle
+7. Atlantis - đang chốt estimate, nếu thành công sẽ là dự án 2 nhân sự làm trong 2-2.5 tháng
+
+- Viết xong bài chia sẻ kinh nghiệm, nhưng cần cải thiện
+- Workshop giới thiệu tool figma => code: dừng lại ở mức độ giới thiệu + thu thập feedback
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- Cyberk flow cần tăng hiệu suất, hiện dừng lại ở 80%
+- Data team chưa form
+
+Vấn Đề Mới Phát Sinh 
+Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân
+- Relmo cần mange con người kĩ hơn, performance các thành viên đang không ổn
+
+Đề Xuất, Giải pháp & Kế Hoạch
+Là các hành động để giải quyết vấn đề nói trên! 
+- Lên kế hoạch làm workshop thiết kế AI Agent
+- Form team data ??
+- Thiết kế lại relmo, nhân rộng co-work, dev lead sync","Các Việc đã làm được 
+1. Helix - Cần bàn giao lại công việc cho Linh, thông báo rời dự án
+2. VisibleBrand - Tiếp tục marketing nhưng chưa có báo cáo hiệu quả cụ thể
+3. SkinAgent - Plan release beta 23/4/2026
+4. America - Khả năng cao contract audit sẽ bị chậm hơn dự kiến do bên Quill báo audit khá lâu cho phần update tính năng 
+5. Relmo - Thiếu nhân lực, task chậm hơn dự kiến, cần a Huy ngồi với a Khánh để đánh giá lại AI agent
+6. Arco - Sẽ chuyển sang Tuấn tự review contract, cần migrate repo sang repo của khách
+
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- Chưa viết bài AI manager
+- Chưa đo được tác động đến performance sau khi áp dụng cyberk flow, chưa xác định toàn bộ vấn đề khi áp dụng
+- Relmo cần thêm người support phần data, tool đã mua nhưng thiếu proxy chưa có ai setup
+- Data team chưa form, sẽ có ích nếu có team data vì relmo trong thời gian tới sẽ rất cần (do KH muốn đẩy mạnh tính năng ScoutIQ sau lần launch đầu)
+
+Vấn Đề Mới Phát Sinh 
+Là các vấn đề mới của tháng này, và suy nghĩ  nguyên nhân
+- Cần lịch nghỉ 30/4-1/5 để báo KH
+
+Đề Xuất, Giải pháp & Kế Hoạch
+Là các hành động để giải quyết vấn đề nói trên! 
+- Lên kế hoạch làm workshop vào thứ 6
+- Collect thông tin từ relmo để lấy info về thử nghiệm AI
+- Finish bài viết
+- Form team data"
+Kate,"Các việc đã làm:
+Đã lên lịch họp tháng 6 cho các dự án
+SkinAgent:
+- Đã release phase 3 và đang bắt đầu code phase 4. Ae đang hỏi lại vụ thưởng xem bao giờ được nhận
+
+Riz: Đã code xong tính năng phòng tranh, đang bắt đầu test và fix bug. Tính năng liên hệ contact để thuê các dịch vụ design, photo,... đang hoàn thiện design và codeing trong tuần này
+
+Đề xuất/ các vấn đề phát sinh:
+- Confirm vai trò của anh Đới trong dự án Riz để lên lịch report
+- Phổ biến lịch meeting cho các team
+","Các việc đã làm:
+SkinAgent:
+- Tổ chức public testing cho dự án SkinAgent bước đầu đạt hiệu quả. Mọi người đánh giá là cần thiết cho các dự án tiếp theo
+- Hiện tại vẫn còn rất nhiều bug chủ yếu mang tính chất cải tiến, theo đánh giá vẫn kịp release vào cuối tuần này
+
+Riz: Có tính năng mới, bên khách hàng đang thảo luận chốt req. bên khách đã báo cắt dev partime của dự án, hiện tại chỉ làm việc trực tiếp với cyberk
+
+Đề xuất/ các vấn đề phát sinh:
+- Có đề xuất thêm design vào Riz không?
+- Cần thống báo với ae về quy chế mới (bỏ thưởng dự án thay bằng đi gặp khách hàng hàng tháng cho ae vì hiện tại mng vẫn đang thảo luận và expect được thưởng dự án)","Riz release thành công
+SkinAgent vẫn đang có nhiều issue cả cũ cả mới
+
+Vấn đề phát sinh:
+- Riz: Khách hàng đang muốn phát triển thêm tính năng mới release cuối tuần này nên nếu không làm tiếp cần báo lại họ sớm để không ảnh hưởng tiến độ 
+
+Đề xuất:
+- Skin Agent: Tổ chức test cả cty","Riz: gần như đã hoàn tất, đang chạy thử trên prod để chạy sự kiện vào thứ 7 tuần này
+
+Vấn đề phát sinh:
+Tuần tới hết dự án Riz cần có plan công việc cho Trung và Linh",,"Mekora: nay release
+Riz: chưa có thông tin về phương án xử lý cho dự án
+
+Đề xuất
+- Lên plan cho các dự án mới
+- Cần một số tài khoản công ty để làm việc","Mekora: Hết hợp đồng
+
+SkinAgent: đang chậm audit report, sẽ bổ sung trong tuần này. Ngoài ra, khách hàng đang đánh giá không cao phần chatbot, cân nhắc việc rút Đạt vì 1/5 KH sẽ đi demo cho khách
+
+Relmo: tiến độ fix bug vẫn chậm, khả năng communicate kém
+
+Riz: cần tổng hợp thông tin và chốt phương án vì Ngọc chỉ còn 1 ngày làm việc
+","Các Việc đã làm được 
+- Riz: tính năng mới đang được triển khai và dự kiến release vào 23/5 trong một sự kiện
+- Relmo: tốc độ xử lý bug chậm, sau launch bug trên git vẫn còn rất nhiều
+
+Các Vấn đề tồn đọng 
+- Mekora vẫn đang phải dành nhiều thời gian
+
+Vấn Đề Mới Phát Sinh 
+- Relmo sau launch đang k họp daily thường xuyên
+
+Đề xuất
+- Bên Mekora marketing nghỉ cuối tuần này. có nên giới thiệu Trung không?","Các Việc đã làm được 
+- Mekora: vẫn đang đáp ứng KPI theo tuần của khách hàng 
+Các Vấn đề tồn đọng 
+(chưa được giải quyết)
+- 
+Vấn Đề Mới Phát Sinh 
+- Relmo: 
++ dev team làm cứng nhắc theo design, một số section trong desktop k có trên mob và ngược lại
++ Nhân lực đang ảnh hưởng tiến độ dự án => chậm tiến độ
++ Dev chưa test hết phần AI trước khi chuyển cho QA, vẫn còn nhiều issue
+
+- Riz: 
++ Tuần trước cancel nên chưa cập nhật việc chốt func mới
++ Các bug đã log tuần trước chưa có sự chuyển dịch status
+
+- SkinAgent: chưa test được nhiều cho phase 2
+"
+Nia,"Các việc đang/đã làm
+- Koto: update lại Wailtist, sửa lại deck mới
+- Ctrl: update deck
+- Kiro: Quick draft cho potential client của Jon
+- Riz: Design phần mới, và update lại các màn hình ảnh hưởng cho requirement/ business mới của khách
+- Cyberk: support Dev homepage, chỉnh sửa lại 3 trang service ( xong layout/ thiếu hình ảnh minh họa)
+- AME: update một vài trang mới và cũ: Overview, staking, watchlist. 
+Tồn đọng
+- Cyberk: các animation/ hình minh họa đang trống + nội dung đang không thống nhất
+- Skinagent: Audit lại UX/UI
+","Các việc đang/đã làm
+- Koto: Design Wailtist, design app update liên tục theo thay đổi ý tưởng của Jon, đi kèm với sửa lại deck, và làm lại demo overview cho app - dự kiến nay xong
+- Relmo: Hoàn thành design phase mới - chưa thấy khách feedback
+- Atlantis: Thêm trang History (swap, bridge)
+- AME: Có request update design và thiết kê thêm một trang mới
+","Các việc đang/đã làm
+- SkinAgent: Design 2 post/reel instars
+- Nikitek: done branding cho em Nghĩa
+- AME: Cập nhật lại flow bedrock và sale
+- Koto: Video demo overview app + Deck cho Jon gửi investor. Cần sửa UIUX để có signature khác các perpdex (Feedback investor)
+Design Waitlist page
+- Cyberk đã request anh Tuấn sửa dần các mục trong trang homepage, pending lại hero banner để đầu tư thêm
+","Các việc đang/đã làm
+- SkinAgent: Sửa phần key design cho onboarding mới, Design reel instar
+- Sửa website/homepage theo 2 theme light/ dark để lựa chọn (đã xong light)
+- Atlantis: Updated xong design 
+- AME: Cập nhật lại flow bedrock và sale
+- VisibleBrand: Landing page và video full luồng
+- Relmo vid demo đầy đủ luồng (update được các luồng từ phía dev đưa)
+- Riz: Support update cải thiện flow challenge
+- Dựng template figma variable token 
+
+Tồn đọng
+- Pending Nikitek branding - logo - font
+- Cyberk website:  cải thiện lại từng phần
+","Các việc đang/đã làm
+- SkinAgent: Update design cho phase mới ( phần thanh toán, onboarding, có thể logo mới)
+- Sửa website/homepage theo 2 theme light/ dark để lựa chọn (đã xong light)
+- Atlantis: Update xong design ( đợi nhận comment thay đổi)
+- Koto: phải làm brand kit để gửi hôm nay
+- Niktech: branding guidline chưa hoàn thiện vì chưa làm logo
+- Port: Xong port của Kenaga - đã public
+Tồn đọng
+- Relmo vid demo đầy đủ luồng. product nội dung chưa đủ để quay demo và edit. làm tay mất nhiều thời gian
+- Pending Cyberk trong việc lựa theme/style phù hợp với yêu cầu","- Update KOTO cho Jon
+- Làm Deck cho KOTO
+- Update KYC cho AME
+- Cho em intern bắt đầu dựng system, component cho Relmo",,"- Liquidity của Jon thiết kế xong update comment nốt các comment mới
+- Dựng ads vid cho TSA, Visible ( total 3)
+- Design các post của TSA
+- Support  Dev làm các animation Ctrl studio, relmo vid. 
+- Relmo khách comment k nhất quán, sửa theo ý rồi vẫn mắng lại.","- Relmo sửa nhiều. Khách hàng gây mơ hồ sửa luẩn quẩn mất thời gian
+- Landing page Leadfox, Ctrl update xong
+- Có khá nhiều task graphic ( skin agent có 2 bài post IG carousel - 8 ảnh/ 1 post) - Ads IG cho visible brand
+- Sẽ làm port cho Kenaga - xong phần tĩnh còn phần vid anim, bổ sung thêm UI Admin
+- Sẽ có 1 em Intern chắc onboard đầu tuần sau"
+Rawin,"Các việc đã làm được 
+- Hoàn thành các tính năng của Atlantis, đang testing và sửa lỗi. 
+
+Các Vấn đề tồn đọng 
+- Phân quyền Cloudflare 
+- local dev env
+
+Vấn Đề Mới Phát Sinh
+- Testing khó, đang test dựa vào các địa chỉ ví và tài khoản của khách hàng để có nhiều case, tài sản, lệnh trên các nền tảng 
+- Khó để tester bên mình thao tác trên nhiều nền tảng","Các việc đã làm được 
+- Focus hoàn thành các tính năng của Atlantis (70%) dự kiến hoàn thành trong tuần này để testing và cải tiến để beta vào ngày 15/06
+
+Các Vấn đề tồn đọng 
+- Phân quyền Cloudflare 
+- local dev env
+
+Vấn Đề Mới Phát Sinh
+- Khách có yêu cầu thêm 1 màn hình mới vế history, đánh giá là không quá phức tạp nên đồng ý làm thêm",Rawin,"Các Việc đã làm được 
+- Team Hackathon đăng ký
+- Đã có giải pháp cho service Atlantis track các protocol cho Rysk và các LP platform
+
+Các Vấn đề tồn đọng 
+- Chờ mail từ Hackathon
+- Pending brief migrate Vercel to Cloudflare
+- Pending bài viết
+
+Vấn Đề Mới Phát Sinh
+- Thay đổi nền tảng cần tracking trên Atlantis, cần nghiên cứu thêm
+- Tập trung vào backend và giải quyết blocker nên trong daily meeting chưa có nhiều thứ để báo cáo => Thay đổi kế hoạch kết hợp hoàn thiện 1 số tính năng để khách hàng yên tâm về tiến độ","Các Việc đã làm được 
+- Start Atlantis, process họp, báo cáo 
+- Quay lại tìm hiểu AI x Crypto => Plan có 1 bài viết trong tuần này 
+
+Các Vấn đề tồn đọng 
+- A Huy vẫn chưa join team
+
+Vấn Đề Mới Phát Sinh 
+- Atlantis track trên nhiều nền tảng, mỗi nền tảng có các cơ chế khác nhau cần tìm hiểu các dữ liệu gì cần được hiển thị để làm việc với designer cho phù hợp, cần mò các wallet có thông tin onchain thật để test và cover các cases
+- Vấn đề tối ưu chi phí, cho các nền tảng bên thứ 3. API Debank giá cao, cần request nhiều để có đủ thông tin => Đang tìm phương hướng kết hợp chỉ gọi những đầu cần thiết thay vì toàn bộ từ Debank","Các Việc đã làm được 
+- Start Alantis
+- Bàn giao lại task indexer America cho Đức
+
+Các Vấn đề tồn đọng 
+- A Tuấn Anh, A Huy vẫn chưa join team
+
+Vấn Đề Mới Phát Sinh 
+- Quay lại nghiên cứu AI x crypto","Các Việc đã làm được 
+- America Launched
+
+Các Vấn đề tồn đọng 
+- A Tuấn Anh, A Huy chưa join team
+
+Vấn Đề Mới Phát Sinh 
+- Quay lại nghiên cứu AI x crypto","Các Việc đã làm được 
+- Lập team Hackathon (mới có Phong, Trường join)
+
+Các Vấn đề tồn đọng 
+- Nợ báo cáo nghiên cứu x402 do dự án America chuẩn bị launch
+- Chưa cập nhật progress đăng ký team ở bên Nghĩa 
+
+Vấn Đề Mới Phát Sinh 
+America pending launch sang tuần sau, một số requirement cần update","Các Việc đã làm được 
+- Support new feature smartcontract cho America
+
+Các Vấn đề tồn đọng 
+- Nợ báo cáo nghiên cứu x402 do đang tập trung giải quyết vấn đề dự án America, nhiều vấn đề cần giải quyết
+
+Vấn Đề Mới Phát Sinh 
+- Kế hoạch launch America vào thứ 2 tuần sau (20/04), smartcontract audit đang pending có thể chậm hơn dự kiến. Hệ thống có nhiều config phức tạp => Cần triển khai test sớm trên môi trường prod (eta: 16/04)"
+Kane ,"Các việc đã làm được 
+- Implement core chat/memory/safety/performance cho GHOLA
+- Migrate Oracle-Stake cho pattrick
+- Asimov:
+  - support worktree, multi agent code review, performance review
+  - thêm asimov-teach-me để bắt dev hiểu những gì AI đã làm/plan (làm quiz, trả lời câu hỏi)
+- LOOP engineer
+
+Các Vấn đề tồn đọng 
+- AI workshop: nghĩ lại thì nó dễ quá, vui vẻ là chính -> chắc vẫn làm
+- Review asimov lens
+
+Vấn Đề Mới Phát Sinh
+- Mua 2 lần GPT PRO (x40) mà ae dùng ít quá","Các Việc đã làm được 
+- Master Plan cho ghola
+- Team skinagent có 1 github agent tự review code => có thể reuse cho các QA agent
+
+Các Vấn đề tồn đọng 
+- Chưa có AI stack chính thức - đang build
+- AI workshop chưa có time tạo template
+
+Vấn Đề Mới Phát Sinh 
+- Alchemy.run local dev - đang build","Các Việc đã làm được 
+- Nghiên cứu ADR và Fact: khá hay ho, atomic decision
+
+Các Vấn đề tồn đọng 
+- AI Credit: Hiếu bỏ cyberk <> mua 2 claude max 400$
+- Chưa phân quyền cloudflare
+- Cloudflare hay pick HK -> error
+- Chưa có AI stack chính thức
+- Cần lên AI Workshop
+
+Vấn Đề Mới Phát Sinh 
+- AI Proxy: bị các em spam -> chết","Các Việc đã làm được 
+- AI Proxy: track prompt của user, ratelimit cho từng user
+- Đã tạo ví quỹ lương
+- Nghiên cứu ADR và Fact <> Spec => dịch chuyển 
+
+Các Vấn đề tồn đọng 
+- Chưa có tìm cho QA agents - để 1 ngày 1 tuần
+
+Vấn Đề Mới Phát Sinh 
+- 
+","Các Việc đã làm được 
+- Research relmo -> có DeBERTa và GLiNER <-> cần train dataset để preprocess message
+- Research wrapper và aggregator sàn perp
+
+Các Vấn đề tồn đọng 
+- Spec driven đang bị chấm hỏi - đang đọc
+
+Vấn Đề Mới Phát Sinh 
+- Ko collect chi phí riêng của dự án -> gửi bill hàng tháng","Các Việc đã làm được 
+- Port plan/build/archive/review ra asimov
+
+Các Vấn đề tồn đọng 
+- 
+
+Vấn Đề Mới Phát Sinh 
+- ","Các Việc đã làm được 
+- AI Proxy đã xem được từng người dùng bao nhiêu tokens
+
+Các Vấn đề tồn đọng 
+- Figma agent
+
+Vấn Đề Mới Phát Sinh 
+- Hướng đi cyberk-flow, cân bằng coding tool, dev, khách -> thu nhỏ lại","Các Việc đã làm được 
+- Nghiên cứu agent cho security/contract audit -> output có vẻ OK
+- Mua claude x20 và gpt x20 cho pro
+
+Các Vấn đề tồn đọng 
+-  Figma workflow chưa xong, absolute
+
+Vấn Đề Mới Phát Sinh 
+- 1 account claude chết => cần quyết budget cho AI theo tháng","Các Việc đã làm được 
+- Figma Workflow đã demo được
+- Làm figma Workflow trên Claude Code
+- Đã đăng kí mạng
+
+Các Vấn đề tồn đọng 
+- Chưa viết đc bài agentic -> TAO đã làm figma như thế nào
+
+Vấn Đề Mới Phát Sinh 
+- Anthropic chặn 3rd -> OpenCode dùng thì vẫn được cơ mà mất hết system prompt"
+Trung,"Việc đã làm được: 
+Visiblebrands/SSR: tổng ngân sách Meta đã chạy $250, test 3 pain points với 9 mẫu qc và 2 landing pages, có 12 new users, 5 returning users. Chi tiết: https://docs.google.com/spreadsheets/d/17S_YOHtIsJw_iGcwiT-LcbKTSU1G3OT1LfLxBjWN9hg/edit?pli=1&gid=820342041#gid=820342041 
+- Lên 2 bài ảnh carousel/tuần cho IG và 1 article/tuần cho blog
+- Hỗ trợ tăng và lọc follower mới: rate 100fl/ngày
+
+Cyberk Index: đã làm thêm 3 profile dự án để review, 2 pending, 1 rejected. Clutch 33 reviews, Goodfirms 33 reviews.
+Cyberk Social: đã lên thêm 4 bài viết trên mỗi nền tàng FB và Linkedin: 1 về testing workshop và 3 về event hackathon. 
+
+Koto/Jon: nhận bàn giao 10 tài khoản X từ seller của jon. Đã làm xong tool quản lý tk (scrape báo hoặc X tìm thông tin mới, có AI hỗ trợ viết bài và đăng. Auto comment cho tất cả tk. Hiện đang chạy thử 4 tk với 10 post/ngày, 40 comments/ngày)
+
+Đề xuất, giải pháp và kế hoạch: 
+Visiblebrands/SSR:
+- Chạy ads duy trì tương tác ngân sách thấp cho Visiblebrands IG theo yêu cầu KH
+- Hỗ trợ KH tăng follow và tương tác cho Skin Agent IG
+
+Cyberk Social: lên thêm bài Singapore Recap + bài llm CTF 
+Koto/Jon: sửa lỗi và fix bug cho tool. Thêm dần các acc còn lại khi tool chạy ổn định.
+
+","Các việc đã làm được
+Visiblebrands: tổng quan ngân sách ads: 404$/600 (+120), new user: 2
+- Chi tiết các mẫu quảng cáo đang chạy: https://docs.google.com/spreadsheets/d/17S_YOHtIsJw_iGcwiT-LcbKTSU1G3OT1LfLxBjWN9hg/edit?usp=sharing 
+- Làm demo landing page mới
+- Chuẩn bị hồ sơ để xin tick xanh Meta
+Cyberk Index: Clutch 33 reviews (+1), Goodfirm 33 reviews (+2), pending review: 1. 
+Cyberk social: +1 bài viết về Design tool update, bài viết App Test workshop pending. 
+Koto: hoàn thành script video cho tất cả các auto workflow theo yêu cầu của Jon.
+Đề xuất, giải pháp và kế hoạch: 
+- Visiblebrands: tiếp tục test chạy ads trên video và landing page mới. Boost tk IG lên mốc tiếp theo: 5k followers.
+- Koto: làm việc tiếp với jon về video workflow và tìm editor phù hợp. 
+- Social: lên tiếp bài về ADR + fact từ anh Huy  + bài workshop AI","Các việc đã làm được
+Visiblebrands: tổng quan ngân sách ads: 284$/600 (+6$), new user: 0
+- Đã chốt với KH phương án ad acc để chạy ads, hoàn thiện landing mới, bắt đầu chạy ads theo plan mới https://docs.google.com/spreadsheets/d/17S_YOHtIsJw_iGcwiT-LcbKTSU1G3OT1LfLxBjWN9hg/edit?usp=sharing
+- Tăng follow dần (100/ngày) và lọc user cho tk IG, đạt 633 follow
+Cyberk Index: submit thêm 2 review, Clutch 32 reviews (+1), Goodfirms 31 reviews (+1), pending review: 1. 
+Cyberk social: 2 bài viết (1 case study visiblebrands + 1 event riz)
+Đề xuất, giải pháp và kế hoạch:
+- Visiblebrands: cần thêm video và landing page để tiếp tục test
+- Cyberk Index: có tỉ lệ bị platform reject. Đã hết trial và cần mua tk workspace 4.5$/tháng
+- Koto: làm việc với jon về plan làm video marketing system, jon đang cân nhắc tìm video editor","Các việc đã làm được:
+VisibleBrands: tổng quan ngân sách ads: 278$/600, new user: 0
+- Gửi verify lần 3 với facebook busniess, cập nhật document mới từ phía KH
+- Làm carousel cho IG (5 ảnh) theo format mới
+- Chốt kế hoạch boost follow của IG, target 1k follow
+Cyberk Index: đã lên thêm 3 dự án review trên clutch và goodfirm (+2 review đã được duyệt, 1 đang chờ duyệt)
+https://clutch.co/profile/cyberk 
+https://www.goodfirms.co/company/cyberk
+Đề xuất, giải pháp và kế hoạch
+VB: chờ tk business được verify để chạy QC, tiếp tục lên bài IG và blog. Hỏi KH về Cyberk public dự án 
+Cyberk Social: thêm 2 bài viết hàng tuần về sự kiện nội bộ và update về AI
+Jon social project: cần research thêm tool edit video với Nghĩa cho koto
+Business Codex: đã gửi info nhưng chưa có email trả lời","Các việc đã làm được:
+VisibleBrands: tổng quan ngân sách ads: 268$/600, new user: 0
+- Chờ verify business trước khi tiếp tục chạy qc theo plan
+- Làm thêm 1 carousel cho IG (7 ảnh)
+- Tìm bên cung cấp dịch vụ buff follower cho IG
+
+Cyberk: đã mua các domain mới và tạo tk workspace, đã lên thêm 1 review trên clutch và goodfirm (đang chờ duyệt)
+https://clutch.co/profile/cyberk 
+https://www.goodfirms.co/company/cyberk
+Jon social project: testing tạo 3 videos mỗi ngày bằng tool opusclip. 
+Vấn đề mới phát sinh:
+VB: cần otp từ phía KH để verify, KH cần chờ sim ship về
+Review project: tk workspace free ok nhưng cần add thẻ mới
+Jon social project: cần research thêm tool auto đăng social
+
+
+
+","Các việc đã làm được:
+VisibleBrands: tổng quan ngân sách ads: 268/600. Các mẫu qc đã test:
+FB/IG: 
+- Video mobile, target lookalike người đã truy cập website trong 30 ngày, hook: Free Audit. KQ: chi ~16$ giá click 0.12$, new email/user: 0
+- Ảnh tĩnh, target lookalike người đã truy cập website trong 30 ngày, hook: pain point về SEO lạc hậu. KQ: chi 20$, giá click 0.05$, new email/user: 0
+Linkedin: 
+- Video mobile, target CMO, CEO, mkt manager, seo manager, hook: Free Audit. KQ: chi ~10$, giá click 1.15$, new emai/user:0
+- Carousel về F&B, target CMO, CEO, mkt manager, interested in franchise, hook: insight về F&B ở Sing. chi ~10$, giá click: 1.05$, new email/user: 0
+
+Chốt plan qc mới cho VB, đã làm thêm file tracking cho KH duyệt: https://docs.google.com/spreadsheets/d/17S_YOHtIsJw_iGcwiT-LcbKTSU1G3OT1LfLxBjWN9hg/edit?usp=sharing.
+Làm thêm 2 carousel cho IG (5 ảnh mỗi bài)
+
+Jon social project: testing các tool AI, tạo 3 videos mỗi ngày
+Vấn đề mới phát sinh:
+VB: Khách muốn đẩy mạnh thêm QC (ngân sách 1 - 2k$), cần verify tài khoản qc business để chạy hiệu quả hơn ở Sing
+Cần thêm content để làm QC cho VB: 
+- 3 landing pages
+- Thêm video demo dài
+
+Cyberk: tăng thêm review trên các nền tảng, cần mua domain và tk workspace. 
+
+
+","Các việc đã làm được: 
+- Chạy ads cho visiblebrands: 206/600$. Các kênh triển khai: FB + IG (giá quảng cáo ổn CPC 0.1$, khách yêu cầu đẩy thêm ngân sách), Linkedin (quảng cáo giá cao hơn ~1$ CPC nhưng KH chất lượng hơn), tình hình user: 36 registered, +2 last week. Có thể cần sửa landing page để tăng chuyển đổi
+- SEO website: submit thêm review trên techbehemoths, 4.61k views và 44 clicks theo GSC.
+Vấn đề mới phát sinh:
+- Làm task của jon: thiết kế automation workflow để tạo video xây kênh cho nội dung trading crypto.
+","Các việc đã làm được:
+- Chạy ads cho visiblebrands trên linkedin và GG ads, tiêu ngân sách 104/600$, 
+testing các mẫu quảng cáo bằng bài viết và video, chưa có kết quả rõ ràng. Tuần này bắt đầu chạy ads trên instagram
+- Lên 2/2 articles cho visiblebrands, view trên GSC chủ yếu thị trường singapore
+- SEO website: 4.24k views và 23 clicks theo GSC
+- Tạo profile cho Cyberk và add portfolio + reviews trên https://techbehemoths.com/company/cyberk
+Vấn đề mới phát sinh: 
+- Visiblebrands chuẩn bị tắt qua phase beta, cần đổi lại content và CTA để tăng chuyển đổi. ","Các Việc đã làm được 
+- Lên plan chạy paid ads trên các nền tảng: Linkedin, IG, GG, Backlink cho VisibleBrands, đã được KH duyệt, ngân sách 600$/tháng
+- Đã setup tracking và add thẻ cho các TK quảng cáo, bắt đầu chạy trên Linkedin.
+- SEO Website: 9.13k views và 26 clicks theo GSC
+
+Các Vấn đề tồn đọng 
+- Website vẫn còn vài lỗi, chưa có internal link cho các bài viết.
+Vấn Đề Mới Phát Sinh 
+- Hệ thống beta code của visiblebrands gây khó cho chuyển đổi từ ads, cần bàn lại với KH.
+"
