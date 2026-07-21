@@ -23,10 +23,10 @@ Chúng ta chỉ tập trung nguồn lực vào 4 mục tiêu cốt tử này. M�
 * **Trọng tâm:** Sales & Revenue.
 * **Mục tiêu:** Mở rộng đầu phễu bán hàng thông qua mạng lưới đối tác.
 
-### 3. [S-003: 1-Index - Top 1 Web3 Search](./S-003-doing.md)
+### 3. [S-005: Self-Media — Xây dựng tài sản thương hiệu IP qua video ngắn](./S-005-doing.md)
 
-* **Trọng tâm:** Marketing & Branding.
-* **Mục tiêu:** Chiếm lĩnh thị phần tìm kiếm (Share of Search) toàn cầu.
+* **Trọng tâm:** Marketing & Branding (Self-Media).
+* **Mục tiêu:** Kéo traffic tự nhiên và xây dựng niềm tin dài hạn qua 32 video ngắn đầu tiên trong tháng 8/2026.
 
 ### 4. [S-004: Agentic AI — Agent Engineering company](./S-004-doing.md)
 
@@ -34,4 +34,11 @@ Chúng ta chỉ tập trung nguồn lực vào 4 mục tiêu cốt tử này. M�
 * **Mục tiêu:** Chuyển dịch từ "công ty phần mềm" thành "Agent Engineering company". Agentic AI chiếm ≥30% doanh thu mới.
 
 ---
-*Cập nhật lần cuối: 18/03/2026*
+
+## Chiến lược đã Lưu trữ (Archived Strategies)
+
+### [S-003: 1-Index - Top 1 Web3 Search](archived/S-003-archived.md)
+* **Lý do lưu trữ:** Thay thế bằng chiến lược Self-Media (S-005) tập trung vào video ngắn để tối ưu hóa hiệu quả kéo traffic tự nhiên và xây dựng tài sản thương hiệu IP trực quan hơn.
+
+---
+*Cập nhật lần cuối: 17/07/2026*

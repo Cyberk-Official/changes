@@ -27,7 +27,7 @@ Xây dựng bộ tài liệu và chính sách hoàn chỉnh để onboard và qu
 
 ### Giai đoạn 1 — Chuẩn hóa MOU
 
-- Cập nhật [MOU.md](../../bd/agreements/BROKER-CYBERK-MOU.md) với các thay đổi:
+- Cập nhật [MOU.md](agreements/BROKER-CYBERK-MOU) với các thay đổi:
   - **Hoa hồng linh hoạt theo deal** — không cố định 20%/10%, mà negotiate theo từng dự án và ghi rõ trong phụ lục.
   - **Passive income giới hạn 2 năm** — sau 2 năm kể từ deal đầu tiên với client đó, hoa hồng retention kết thúc.
   - **Attribution window** — quy định rõ thời gian broker "sở hữu" client (VD: 6 tháng kể từ lần giới thiệu).

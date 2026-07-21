@@ -15,4 +15,4 @@ tags: [marketing, cyberk-way]
 * **Phạm vi & Tác động:** Khối Marketing, Content, Branding.
 * **Liên kết Improvement Plans (Tactics):**
   * *(Cần bổ sung các IP về SEO Audit, AI Content Pipeline, Backlink Strategy)*
-* **Status:** `Doing`
+* **Status:** `Archived` (Đã lưu trữ và thay thế bằng chiến lược Self-Media S-005)

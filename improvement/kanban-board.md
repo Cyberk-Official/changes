@@ -26,6 +26,8 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 
 - [ ] **[IP-023](./IP-023-doing.md)**: Tái Cấu Trúc Dịch vụ — Product Design, Product Build, Tech Labs `doing`
 - [ ] **[IP-024](./IP-024-doing.md)**: Viết Bài Triết lý Thiết kế Software `todo`
+- [ ] **[IP-034](./IP-034-doing.md)**: Xây dựng Bộ phận Sản xuất Nội dung New-Media `todo`
+
 
 
 ## 🟡 Ưu tiên trung bình — Broker (quan trọng, dài hạn vài năm)
