@@ -33,6 +33,11 @@ Chúng ta chỉ tập trung nguồn lực vào 4 mục tiêu cốt tử này. M�
 * **Trọng tâm:** Product & Positioning.
 * **Mục tiêu:** Chuyển dịch từ "công ty phần mềm" thành "Agent Engineering company". Agentic AI chiếm ≥30% doanh thu mới.
 
+### 5. [S-006: Cyberk 4M — Xây dựng công ty sẵn sàng exit $4M USD](./S-006-doing.md)
+
+* **Trọng tâm:** Company Building & Exit Readiness.
+* **Mục tiêu:** Xây dựng Cyberk thành tài sản acquisition-ready, định giá $4M USD — target buyer là foreign companies vào VN hoặc Vietnamese enterprise cần năng lực AI/Blockchain.
+
 ---
 
 ## Chiến lược đã Lưu trữ (Archived Strategies)
@@ -41,4 +46,4 @@ Chúng ta chỉ tập trung nguồn lực vào 4 mục tiêu cốt tử này. M�
 * **Lý do lưu trữ:** Thay thế bằng chiến lược Self-Media (S-005) tập trung vào video ngắn để tối ưu hóa hiệu quả kéo traffic tự nhiên và xây dựng tài sản thương hiệu IP trực quan hơn.
 
 ---
-*Cập nhật lần cuối: 17/07/2026*
+*Cập nhật lần cuối: 06/08/2026*

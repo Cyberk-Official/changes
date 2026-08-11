@@ -42,6 +42,11 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 - [ ] **[IP-013](./IP-013-doing.md)**: Đóng gói Phương pháp Phát triển Phần mềm
 - [ ] **[IP-018](./IP-018-doing.md)**: Pilot Solodev — America Fun `doing`
 
+## 🏛️ Company Building — Governance & HR
+
+- [ ] **[IP-035](./IP-035-doing.md)**: Xây dựng Hệ thống Equity & Chính sách Cổ phần Nhân viên `todo` `priority: high`
+- [ ] **[IP-036](./IP-036-doing.md)**: Customer Intelligence Database — Tài sản Dữ liệu Khách hàng `todo` `priority: high`
+
 ## 📥 Backlog
 
 - [ ] **[IP-025](./IP-025-doing.md)**: Smart Contract Claim USDT/USDC — Thanh toán Freelancer
