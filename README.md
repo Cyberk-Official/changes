@@ -28,14 +28,13 @@ Workspace được tổ chức tinh gọn để tối ưu hóa sự tập trung:
     *   `kanban-board.md`: Bảng theo dõi trạng thái thực thi.
     *   `IP-XXX-doing.md`: File IP riêng lẻ.
     *   `archived/`: IP đã hoàn thành/thất bại.
-*   **`tasks/`**: Task files chi tiết cho từng bộ phận.
-    *   `IP-XXX/IP-XXX-DEPT.md`: Task file cho bộ phận cụ thể.
+*   **`plans/`**: Kế hoạch thực thi chi tiết (Plan Files & CSVs).
+    *   `IP-XXX/plan.csv`: Danh sách task chi tiết dạng bảng chứa đầy đủ thông tin chuẩn bị publish.
 *   **`skills/`**: Bộ não quy trình (SOPs).
-    *   `st-create/`: Quy trình tạo chiến lược.
-    *   `ip-create/`: Quy trình tạo mới IP.
-    *   `ip-execute/`: Quy trình triển khai IP.
-    *   `task-create/`: Quy trình tạo task files.
-    *   `task-assign/`: Trợ lý gửi tài liệu qua Telegram.
+    *   `st-create/`: Quy trình tạo chiến lược dài hạn.
+    *   `ip-create/`: Quy trình khởi tạo Improvement Plan (IP).
+    *   `ip-planning/`: Quy trình lập kế hoạch IP và xuất file `plans/IP-XXX/plan.csv`.
+    *   `ip-publish/`: Quy trình duyệt 1 by 1 và đẩy task lên GitHub Project.
     *   `ip-archive/`: Quy trình đóng IP (Hoàn thành/Thất bại/Huỷ).
 *   **`change-logs/`**: Nhật ký thay đổi và lessons learned.
 
@@ -49,9 +48,9 @@ Workspace được tổ chức tinh gọn để tối ưu hóa sự tập trung:
 
 1.  **Think Big (Strategy):** CEO & Agent xác định Chiến lược → `skills/st-create/st-create.md`.
 2.  **Start Small (IP):** Cụ thể hóa thành IP → `skills/ip-create/ip-create.md`.
-3.  **Execute Fast (Execution):** Triển khai IP → `skills/ip-execute/ip-execute.md`.
-4.  **Assign & Track:** Tạo task & theo dõi → `skills/task-create/task-create.md` + `scheduler.csv`.
-5. **Traceability (Logging):** Ghi lại mọi hành động tại `change-logs/` và `scheduler.csv`.
+3.  **Plan Fast (Planning):** Lập kế hoạch IP & xuất CSV → `skills/ip-planning/ip-planning.md`.
+4.  **Publish Tasks (Publishing):** Duyệt từng task 1 by 1 & đẩy lên GitHub → `skills/ip-publish/ip-publish.md`.
+5.  **Track & Log (Logging):** Theo dõi tiến độ & lưu vết → `scheduler.csv` + `change-logs/`.
 
 ---
 *CyberkFi - Where Human Vision meets AI Execution.*

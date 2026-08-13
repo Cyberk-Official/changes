@@ -23,7 +23,7 @@ Chúng ta chỉ tập trung nguồn lực vào 4 mục tiêu cốt tử này. M�
 * **Trọng tâm:** Sales & Revenue.
 * **Mục tiêu:** Mở rộng đầu phễu bán hàng thông qua mạng lưới đối tác.
 
-### 3. [S-005: Self-Media — Xây dựng tài sản thương hiệu IP qua video ngắn](./S-005-doing.md)
+### 3. [S-005: Self-Media — Xây dựng tài sản thương hiệu IP qua video ngắn](S-005-doing/S-005-doing.md)
 
 * **Trọng tâm:** Marketing & Branding (Self-Media).
 * **Mục tiêu:** Kéo traffic tự nhiên và xây dựng niềm tin dài hạn qua 32 video ngắn đầu tiên trong tháng 8/2026.
@@ -33,7 +33,7 @@ Chúng ta chỉ tập trung nguồn lực vào 4 mục tiêu cốt tử này. M�
 * **Trọng tâm:** Product & Positioning.
 * **Mục tiêu:** Chuyển dịch từ "công ty phần mềm" thành "Agent Engineering company". Agentic AI chiếm ≥30% doanh thu mới.
 
-### 5. [S-006: Cyberk 4M — Xây dựng công ty sẵn sàng exit $4M USD](./S-006-doing.md)
+### 5. [S-006: Cyberk 4M — Xây dựng công ty sẵn sàng exit $4M USD](S-005-doing/S-006-doing.md)
 
 * **Trọng tâm:** Company Building & Exit Readiness.
 * **Mục tiêu:** Xây dựng Cyberk thành tài sản acquisition-ready, định giá $4M USD — target buyer là foreign companies vào VN hoặc Vietnamese enterprise cần năng lực AI/Blockchain.

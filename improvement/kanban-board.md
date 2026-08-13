@@ -15,6 +15,7 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 - [ ] **[IP-031](./IP-031-doing.md)**: Tái thiết lại các cuộc họp công ty & 1-Day Sprint `todo`
 - [ ] **[IP-032](./IP-032-doing.md)**: Xây dựng Team Data & Data Pipeline Service `todo`
 - [ ] **[IP-033](./IP-033-doing.md)**: Chuẩn hoá Phương thức Vận hành Công ty cho các Dự án `todo`
+- [ ] **[IP-037](./IP-037-doing.md)**: Quản lý Cyberk theo Dự án — Project-Based Governance `doing` `priority: high` `deadline: W33-W36`
 
 ## 🔥 Ưu tiên cao — Agentic (thị trường đang nóng, cần nhanh)
 

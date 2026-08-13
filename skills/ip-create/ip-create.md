@@ -64,4 +64,4 @@ description: Tạo mới Improvement Plan (IP) từ ý tưởng — hoạch đ�
 
 ---
 
-> **Bước tiếp theo:** Khi IP sẵn sàng triển khai → thực hiện `skills/ip-execute/ip-execute.md`.
+> **Bước tiếp theo:** Khi IP sẵn sàng triển khai → thực hiện `skills/ip-planning/ip-planning.md`.

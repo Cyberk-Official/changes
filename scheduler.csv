@@ -27,3 +27,18 @@ date,time,type,ip,task,channel,action,on_complete,status
 2026-06-30,09:00,follow,IP-032,IP-032-DEV,DEV,Hôm nay là deadline — pipeline chạy cho 2 dự án nhé!,Cập nhật trạng thái,pending
 2026-07-01,09:00,follow,IP-032,IP-032-CEO,CEO,Deadline 08/07 — chốt khách hàng đầu tiên,Cập nhật trạng thái,pending
 2026-07-08,09:00,review,IP-032,,CEO,Tổng hợp + review toàn bộ IP-032,Cập nhật Status IP,pending
+2026-08-11,09:00,assign,IP-037,IP-037-LEADERS,LEADERS,Họp kick-off IP-037: align mục tiêu + phân công roles + xác nhận tool PM chuẩn,IP-037-LEADERS → doing,pending
+2026-08-11,09:00,assign,IP-037,IP-037-ANNA,ALL,KR1 W33: 100% dự án Cyberk phải có Project Dashboard — Team Leads setup ngay trong tuần này,IP-037-ANNA → doing,pending
+2026-08-11,09:00,assign,IP-037,IP-037-BRIAN,LEADERS,Setup dashboard template + kiểm kê dự án đang chạy theo từng team,IP-037-BRIAN → doing,pending
+2026-08-11,09:00,assign,IP-037,IP-037-DEV,DEV,IP-037 KR1: Cung cấp danh sách dự án Dev + confirm Project Board trong tuần này,IP-037-DEV → doing,pending
+2026-08-11,09:00,assign,IP-037,IP-037-DES,DES,IP-037 KR1: Cung cấp danh sách dự án Design + confirm Project Board trong tuần này,IP-037-DES → doing,pending
+2026-08-11,09:00,assign,IP-037,IP-037-MEDIA,MKT,IP-037 KR1: Cung cấp danh sách dự án Media + confirm Project Board trong tuần này,IP-037-MEDIA → doing,pending
+2026-08-11,09:00,assign,IP-037,IP-037-QA,QA,IP-037 KR1: Cung cấp danh sách dự án QA + confirm Project Board trong tuần này,IP-037-QA → doing,pending
+2026-08-14,09:00,follow,IP-037,IP-037-BRIAN,LEADERS,Thứ 5 W33: Brian báo cáo — bao nhiêu dự án đã có dashboard? Team nào chưa xong?,Cập nhật trạng thái KR1,pending
+2026-08-18,09:00,assign,IP-037,IP-037-ANNA,ALL,KR2 W34: 100% task mới phải có đủ Deadline + Assignee + Estimate + Label,IP-037-ANNA KR2 sent,pending
+2026-08-21,09:00,follow,IP-037,IP-037-BRIAN,LEADERS,Thứ 5 W34: Brian báo cáo % task hợp lệ theo từng team. Nêu rõ member/team chưa comply.,Cập nhật trạng thái KR2,pending
+2026-08-25,09:00,assign,IP-037,IP-037-ANNA,ALL,KR3 W35: 100% dự án phải có Weekly Sprint Dashboard — Brian tổng hợp mỗi thứ 6,IP-037-ANNA KR3 sent,pending
+2026-08-28,09:00,follow,IP-037,IP-037-BRIAN,LEADERS,Thứ 5 W35: Brian báo cáo tỉ lệ dự án có sprint report. Team nào chưa xong?,Cập nhật trạng thái KR3,pending
+2026-09-01,09:00,assign,IP-037,IP-037-ANNA,ALL,KR4 W36: 100% member phải có Personal Dashboard — Brian đã setup xong,IP-037-ANNA KR4 sent,pending
+2026-09-04,09:00,follow,IP-037,IP-037-BRIAN,LEADERS,Thứ 5 W36: Brian báo cáo % member đã có personal dashboard. Nêu rõ ai chưa có.,Cập nhật trạng thái KR4,pending
+2026-09-08,09:00,review,IP-037,,CEO,Review tổng kết IP-037: 4 KR đạt bao nhiêu %? Bài học gì? Quyết định next step.,Cập nhật Status IP-037 → done hoặc extend,pending
