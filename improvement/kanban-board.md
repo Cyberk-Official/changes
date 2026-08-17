@@ -11,10 +11,10 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 
 ## ⚙️ Operations — Quy trình vận hành
 
-- [ ] **[IP-029](./IP-029-doing.md)**: Chuẩn hóa Quy trình Kick-off Dự án Mới `doing` `deadline: 20/03`
+
 - [ ] **[IP-031](./IP-031-doing.md)**: Tái thiết lại các cuộc họp công ty & 1-Day Sprint `todo`
 - [ ] **[IP-032](./IP-032-doing.md)**: Xây dựng Team Data & Data Pipeline Service `todo`
-- [ ] **[IP-033](./IP-033-doing.md)**: Chuẩn hoá Phương thức Vận hành Công ty cho các Dự án `todo`
+
 - [ ] **[IP-037](./IP-037-doing.md)**: Quản lý Cyberk theo Dự án — Project-Based Governance `doing` `priority: high` `deadline: W33-W36`
 
 ## 🔥 Ưu tiên cao — Agentic (thị trường đang nóng, cần nhanh)
@@ -27,7 +27,7 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 
 - [ ] **[IP-023](./IP-023-doing.md)**: Tái Cấu Trúc Dịch vụ — Product Design, Product Build, Tech Labs `doing`
 - [ ] **[IP-024](./IP-024-doing.md)**: Viết Bài Triết lý Thiết kế Software `todo`
-- [ ] **[IP-034](./IP-034-doing.md)**: Xây dựng Bộ phận Sản xuất Nội dung New-Media `todo`
+- [ ] **[IP-038](./IP-038-doing.md)**: Member Content Adoption — Chiến tranh Nhân dân trong Sản xuất Nội dung `todo` `priority: high`
 
 
 
@@ -39,7 +39,7 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 
 ## 🔵 Ưu tiên thấp — AI Native / Solodev (quan trọng, chạy dài hạn)
 
-- [ ] **[IP-011](./IP-011-doing.md)**: Triển khai mô hình Solo-Dev
+
 - [ ] **[IP-013](./IP-013-doing.md)**: Đóng gói Phương pháp Phát triển Phần mềm
 - [ ] **[IP-018](./IP-018-doing.md)**: Pilot Solodev — America Fun `doing`
 
@@ -47,6 +47,7 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 
 - [ ] **[IP-035](./IP-035-doing.md)**: Xây dựng Hệ thống Equity & Chính sách Cổ phần Nhân viên `todo` `priority: high`
 - [ ] **[IP-036](./IP-036-doing.md)**: Customer Intelligence Database — Tài sản Dữ liệu Khách hàng `todo` `priority: high`
+- [ ] **[IP-039](./IP-039-doing.md)**: Ra Quyết định bằng Văn bản — Written Decision-Making & Policy System `todo` `priority: high`
 
 ## 📥 Backlog
 
@@ -64,6 +65,10 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 
 ## 📦 Archived (Hoàn thành)
 
+- [x] **[IP-034](./archived/IP-034-done.md)**: Xây dựng Bộ phận Sản xuất Nội dung New-Media — Completed 2026-08-14
+- [x] **[IP-033](./archived/IP-033-done.md)**: Chuẩn hoá Phương thức Vận hành Công ty cho các Dự án — Completed 2026-08-17
+- [x] **[IP-029](./archived/IP-029-done.md)**: Chuẩn hóa Quy trình Kick-off Dự án Mới — Completed 2026-08-17
+- [x] **[IP-011](./archived/IP-011-done.md)**: Triển khai mô hình Solo-Dev — Completed 2026-08-17
 - [x] **[IP-016](./archived/IP-016-done.md)**: Content Engine & Analytics Reporting
 - [x] **[IP-001](./archived/IP-001-doing.md)**: Chuẩn hóa tài liệu PRD
 - [x] **[IP-005](./archived/IP-005-doing.md)**: Đào tạo AI-Driven Development

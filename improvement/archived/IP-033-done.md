@@ -1,7 +1,7 @@
 ---
 type: improvement-plan
 tags: [cyberk-way, operations, leadership, meeting, documentation]
-status: todo
+status: done
 priority: high
 created: 2026-06-13
 ---
@@ -132,6 +132,7 @@ created: 2026-06-13
   * [[IP-029-doing]] — Chuẩn hóa Quy trình Kick-off Dự án Mới
   * [[IP-031-doing]] — Tái thiết lại các cuộc họp công ty & 1-Day Sprint
 
-* **Status:** `Chưa bắt đầu`
+* **Status:** `done`
 * **Thực tế (Ghi chú/Dấu vết):**
   * 2026-06-13: Khởi tạo IP từ yêu cầu CEO. Mục tiêu chuẩn hoá vận hành cho scale.
+  * 2026-08-17: Archived theo xác nhận CEO. IP-033 hoàn thành.

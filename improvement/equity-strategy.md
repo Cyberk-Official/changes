@@ -98,7 +98,7 @@ CEO có trách nhiệm:
 
 - **Tiên phong:** 1 CTO/tech cứng (kiêm KOL chính) + 1 member năng động
 - **Mở rộng:** Bất kỳ member nào chọn tham gia
-- **KPI tham chiếu:** 50% member bắt đầu sản xuất nội dung trong 8 tuần (IP-034 KR2)
+- **KPI tham chiếu:** 50% member bắt đầu sản xuất nội dung trong 8 tuần (IP-038 KR1, tách từ IP-034)
 
 ### 3.3 Vai trò Team Media
 
@@ -115,8 +115,9 @@ CEO có trách nhiệm:
 |-----------|-------------------|---------|
 | S-005 (Self-Media) | 20% pool cho chiến tranh nhân dân nội dung | [S-005](../strategy/S-005-doing/S-005-doing.md) |
 | S-004 (Asimov) | Equity cho tech lead (nằm trong content pool, cùng 1 người) | S-004 |
-| S-006 (Cyberk 4M) | Equity structure minh bạch, broker 5-7% | [S-006](../strategy/S-006-doing.md) |
-| IP-034 | KR2: 50% member adoption trong 8 tuần | [IP-034](./IP-034-doing.md) |
+| S-006 (Cyberk 4M) | Equity structure minh bạch, broker 5-7% | [S-006](../strategy/S-006-doing/S-006-doing.md) |
+| IP-034 | Hoàn thành xây dựng Core Media Unit | [IP-034](./archived/IP-034-done.md) |
+| IP-038 | KR1: 50% member adoption trong 8 tuần (Chiến tranh nhân dân) | [IP-038](./IP-038-doing.md) |
 
 ---
 

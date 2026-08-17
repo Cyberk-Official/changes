@@ -26,7 +26,8 @@ tags: [marketing, cyberk-way, self-media]
   * **KR4:** Xây dựng phễu chuyển đổi tự động từ video sang lượt tải tài liệu/Github stars và đăng ký form tư vấn qua bio link.
 * **Phạm vi & Tác động:** CEO (Content Director), Content Lead, Video Editor, **Toàn bộ member Cyberk** (trong vai trò content contributor), Community.
 * **Liên kết Improvement Plans (Tactics):**
-  * [IP-034](../improvement/IP-034-doing.md): Dịch chuyển sang New-Media, Xây dựng Bộ phận Sản xuất Nội dung
+  * [IP-034](../improvement/archived/IP-034-done.md): Dịch chuyển sang New-Media, Xây dựng Bộ phận Sản xuất Nội dung (Đã hoàn thành)
+  * [IP-038](../improvement/IP-038-doing.md): Member Content Adoption — Chiến tranh Nhân dân trong Sản xuất Nội dung
   * [IP-035](../improvement/IP-035-doing.md): Hệ thống Equity & Cổ phần Nhân viên (equity phục vụ chiến lược nội dung)
   * *(Cần bổ sung các IP về Setup Kênh & Phễu Chuyển đổi, Lịch trình sản xuất 32 video tháng 8)*
 * **Tài liệu gốc:**
