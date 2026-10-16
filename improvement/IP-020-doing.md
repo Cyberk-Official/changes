@@ -1,6 +1,9 @@
 ---
 type: ip
 tags: [broker, marketing]
+created-date: 2026-03-19
+updated-date: 2026-10-07
+author: anderson
 ---
 
 # IP-020: Broker Sales Kit — Bộ công cụ bán hàng
@@ -70,6 +73,23 @@ Tạo bộ tài liệu bán hàng hoàn chỉnh mà bất kỳ broker nào cũng
 - Test với 2-3 broker mới.
 - Iterate dựa trên feedback thực tế.
 
+### Bổ sung 2026-10-07 — Việc cần làm cho broker cấp CEO
+
+1. **Broker brief, 1 trang.** Không phải kịch bản bán hàng, vì CEO không thích đọc thoại. Chỉ cần ghi chú ngắn:
+   - Dịch vụ là gì, trong một câu.
+   - Nghe câu gì thì nghĩ đến Cyberk.
+   - Nên gợi ý gói nào trước (Health Check).
+   - Những gì không được hứa với khách (giá, thời gian).
+   Đây là thứ broker thật sự sẽ đọc lại.
+2. **Mẫu giới thiệu sẵn để chuyển tiếp.** CEO giới thiệu chủ yếu bằng email hoặc tin nhắn ba bên kiểu "A, gặp B nhé". Có sẵn một đoạn 3–4 câu cho **email, LinkedIn và Telegram**, broker chỉ cần sửa tên rồi gửi. Bỏ được bước "không biết viết gì" thì số lời giới thiệu tăng rõ rệt.
+3. **Quy trình chuyển lead và cam kết phản hồi.** Khi giới thiệu, broker đặt uy tín cá nhân vào đó. Nỗi sợ lớn nhất của họ là Cyberk phản hồi chậm làm họ mất mặt. Cần có:
+   - Một form hoặc kênh đăng ký lead, kiêm luôn việc xác định ai giới thiệu trước.
+   - Cam kết phản hồi khách trong **24 giờ**.
+   - Cập nhật trạng thái lead cho broker.
+4. **Báo cáo Health Check mẫu (ẩn danh).** Trong lúc 3 case study Rescue (America Fun, Bullion, Blockwrap — xem [IP-042](./IP-042-doing.md)) còn chờ khách xác nhận, đây là bằng chứng mạnh nhất: khách nhìn thấy cụ thể mình sẽ nhận được gì với $500.
+
+**Nên cân nhắc — ưu đãi riêng cho người được giới thiệu:** ví dụ trừ phí Health Check vào gói sau, hoặc gọi đánh giá miễn phí 20 phút. Khi đó lời giới thiệu thành một ân huệ broker dành cho bạn bè, chứ không phải đang bán hàng. Với người có địa vị, điều này rất quan trọng. *(Quyết định về ưu đãi và giá thuộc về Anderson.)*
+
 ## 5. Rủi ro (Risks)
 
 - *Rủi ro 1:* **Case study thiếu permission từ client** — không được phép public tên hoặc số liệu. → *Mitigation:* Liên hệ client xin phép, hoặc anonymize nếu cần.
@@ -89,4 +109,4 @@ Tạo bộ tài liệu bán hàng hoàn chỉnh mà bất kỳ broker nào cũng
 
 ## 8. Thực tế (Ghi chú/Dấu vết)
 
-*(Chưa có — sẽ cập nhật khi bắt đầu triển khai)*
+- 2026-10-07: Đưa lên board Leader thành 1 task ([#32](https://github.com/Cyberk-Official/changes/issues/32)), mục tiêu xong trong W41. Cuối tháng 10 gặp các broker của Cyberk. Bổ sung 4 việc cho broker cấp CEO (brief 1 trang, mẫu giới thiệu, quy trình chuyển lead 24h, báo cáo Health Check mẫu).

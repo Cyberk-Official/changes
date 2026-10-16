@@ -28,6 +28,7 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 - [ ] **[IP-023](./IP-023-doing.md)**: Tái Cấu Trúc Dịch vụ — Product Design, Product Build, Tech Labs `doing`
 - [ ] **[IP-024](./IP-024-doing.md)**: Viết Bài Triết lý Thiết kế Software `todo`
 - [ ] **[IP-038](./IP-038-doing.md)**: Member Content Adoption — Chiến tranh Nhân dân trong Sản xuất Nội dung `todo` `priority: high`
+- [ ] **[IP-042](./IP-042-doing.md)**: Đưa Source Code Rescue ra thị trường — Web3 vibe-code founders `todo` `priority: high` `deadline: 31/10 (Sale-kit + website)`
 
 
 
@@ -48,6 +49,7 @@ Theo dõi tiến độ thực hiện các Kế hoạch Cải tiến (Improvement
 - [ ] **[IP-035](./IP-035-doing.md)**: Xây dựng Hệ thống Equity & Chính sách Cổ phần Nhân viên `todo` `priority: high`
 - [ ] **[IP-036](./IP-036-doing.md)**: Customer Intelligence Database — Tài sản Dữ liệu Khách hàng `todo` `priority: high`
 - [ ] **[IP-039](./IP-039-doing.md)**: Ra Quyết định bằng Văn bản — Written Decision-Making & Policy System `todo` `priority: high`
+- [ ] **[IP-041](./IP-041-doing.md)**: Bổ sung Điều khoản Quyền Sử dụng Hình ảnh VJ vào Hợp đồng Lao động `todo`
 
 ## 📥 Backlog
 
